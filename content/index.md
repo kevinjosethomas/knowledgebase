@@ -1,12 +1,10 @@
 ---
-title: 👋 Welcome
+title: Welcome
 ---
 
-Hi, I'm Kevin! 👋 I'm a high school senior from Vancouver with a passion for computer science and software development. You can learn more about my work on my [portfolio](https://kevinjosethomas.com/).
+Hi, I'm Kevin! I'm a high school senior from Vancouver with a passion for computer science and software development. You can learn more about my work on my [portfolio](https://kevinjosethomas.com/).
 
----
-
-## Table of Contents
+### Table of Contents
 
 This repository is a collection of my notes, thoughts, and learnings across a variety of random fascinating topics.
 
