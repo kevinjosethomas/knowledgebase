@@ -1,4 +1,5 @@
 # 🔭 Learning
+
 This repository contains my [Obsidian](https://obsidian.md/) notes for all the different things I've been reading and learning...
 
 ## Table of Contents
