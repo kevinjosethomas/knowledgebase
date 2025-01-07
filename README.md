@@ -1,13 +1,13 @@
-# 🔭 Learning
+# 🪴 Knowledgebase
 
-This repository contains my [Obsidian](https://obsidian.md/) notes for all the different things I've been reading and learning...
+This repository is hope to a collection of my notes, thoughts, and learnings across a variety of random fascinating topics. My notes are written via [Obsidian](https://obsidian.md/), and deployed to my knowledgebase using [Quartz](https://quartz.jzhao.xyz/). You can access my knowledgebase here: [knowledge.kevinjosethomas.com](https://knowledge.kevinjosethomas.com/learning/)
 
 ## Table of Contents
 
-- [Artificial Intelligence](https://github.com/kevinjosethomas/learning/tree/main/Artificial%20Intelligence) - Learnings and theories about AI that I've studied
-- [Papers](https://github.com/kevinjosethomas/learning/tree/main/Papers) - Thoughts, opinions and summaries from various papers I have read
-- [People](https://github.com/kevinjosethomas/learning/tree/main/People) - Notes and quotes from amazing inspiring people I've had the fortunate opportunity to meet
-- [School](https://github.com/kevinjosethomas/learning/tree/main/School) - Notes and scribbles for classes I'm taking at school
-- [Talks](https://github.com/kevinjosethomas/learning/tree/main/People) - Talks, speeches, presentations, and other amazing sources of information
+- [Learning](https://knowledge.kevinjosethomas.com/Learning/) - Collection of notes across school, college, and other learning experiences
+- [Papers](https://knowledge.kevinjosethomas.com/Papers/) - Summaries and annotations from various fascinating academic papers
+- [People](https://knowledge.kevinjosethomas.com/People/) - Ideas from amazing inspiring people I've had the fortunate opportunity to meet
+- [Talks](https://knowledge.kevinjosethomas.com/Talks/) - Talks, podcasts, presentations, and other amazing sources of information
+- [Thoughts](https://knowledge.kevinjosethomas.com/Thoughts/) - My blog posts, thoughts, and opinions on various topics
 
-If you're interested in any of the concepts in this repository, or if you have anything you think I should read or learn about, please let me talk to you!
+If you're interested in any of the concepts in this repository, or if you have anything you think I should read or learn about, I would love to talk!
