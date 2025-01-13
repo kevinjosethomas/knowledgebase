@@ -2,7 +2,6 @@
 title: "Daily Transit"
 date: "2024-09-01"
 ---
-
 I cross the Fraser River every single day. When we moved to Surrey, I wanted to continue going to my school in Burnaby, but I wasn't very happy about the resulting need to transit 40 minutes twice a day. It’s still not the most enjoyable way to spend every morning, but my transit is something I’m now strangely fond of.
 
 I think I live a pretty eventful life, some days really good, and some bad. Most days I’m on the train just to get to school, but many days I’m heading to Metrotown to hang out with friends. Some days I’m teaching elementary coding camps, but some days I’m soaked in sweat after a badminton game. Some days it’s painfully early, but many days it’s past sunset. Regardless, the one constant throughout every single day is my time on the train: the fast-moving landscape of Vancouver’s buildings, mountains and rivers, and most probably, a consistent set of faces.
