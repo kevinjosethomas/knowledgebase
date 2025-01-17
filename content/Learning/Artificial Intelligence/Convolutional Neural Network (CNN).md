@@ -1,4 +1,4 @@
-A convolutional neural network is a type of feed-forward neural network that is used for [[Classification]] and [[Computer Vision]] tasks. CNNs have three main types of layers:
+A convolutional neural network is a type of feed-forward neural network that is used for [[Image Classification]] and [[Computer Vision]] tasks. CNNs have three main types of layers:
 - [[Convolutional Layer]]
 - [[Pooling Layer]]
 - [[Fully-Connected Layer]]

@@ -1,0 +1,1 @@
+Cross-entropy loss is used in classification problems, especially when multiple classes are involved. It measures the difference between the predicted probability distribute and the actual class labels (ground truth), where the goal is to minimize the difference so that predicted probabilities match the true labels as closely as possible.
