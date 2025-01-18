@@ -36,24 +36,29 @@ export const defaultContentPageLayout: PageLayout = {
             typeof node.file?.frontmatter?.date === "string"
               ? new Date(node.file.frontmatter.date)
               : null
-          const dateA = getDate(a)
-          const dateB = getDate(b)
 
-          if (dateA && dateB) {
-            const diff = (dateB?.getTime() || 0) - (dateA?.getTime() || 0)
-            return diff !== 0
-              ? diff
-              : a.displayName.localeCompare(b.displayName, undefined, {
-                  numeric: true,
-                  sensitivity: "base",
-                })
+          const sortByDate = (node: FileNode) =>
+            node.file?.filePath?.startsWith("content/Thoughts/") ||
+            node.file?.filePath?.startsWith("content/People/")
+
+          if (sortByDate(a) && sortByDate(b)) {
+            const dateA = getDate(a)
+            const dateB = getDate(b)
+
+            if (dateA && dateB) {
+              const diff = (dateB?.getTime() || 0) - (dateA?.getTime() || 0)
+              return diff !== 0
+                ? diff
+                : a.displayName.localeCompare(b.displayName, undefined, {
+                    numeric: true,
+                    sensitivity: "base",
+                  })
+            }
+
+            if (dateA && !dateB) return -1
+            if (!dateA && dateB) return 1
           }
 
-          // One has date, the other doesn't: date first
-          if (dateA && !dateB) return -1
-          if (!dateA && dateB) return 1
-
-          // Neither has date: sort alphabetically
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
             sensitivity: "base",
