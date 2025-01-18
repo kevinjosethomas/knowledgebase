@@ -1,3 +1,7 @@
+---
+date: '2024-10-04'
+---
+
 1. Explain how to use opportunity cost in everyday life
 2. Differentiate between increasing and constant opportunity cost PPC
 3. Explain why the low of increasing opportunity cost occurs

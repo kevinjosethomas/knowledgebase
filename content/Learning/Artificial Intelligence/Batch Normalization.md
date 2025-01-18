@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Batch Normalization is used to improve training stability and speed in neural networks by standardizing the inputs to each layer within a batch. It helps address internal covariate shift—where changing parameters during training causes distributions of each layer's inputs to vary. This slows down training or leads to model instability.
 
 1. **Compute the Mean and Variance:** For each training batch, calculate the mean and variance of each feature

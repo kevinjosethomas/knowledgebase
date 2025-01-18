@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 The argmax function  returns the index of the maximum value in the input vector. The output of argmax looks like this:
 
 ![[Pasted image 20240704130530.png]]

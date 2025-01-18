@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 The most popular technique used for grouping data points or objects that are familiar. It can group unsupervised data (no trained model) based on the similarity of the data to each other. It is a partitioning-based algorithm that divides into k non-overlapping subsets (clusters) without any label references to train. It serves to minimize the intra-cluster distances and to maximize the inter-cluster distances. 
 
 ### Algorithm

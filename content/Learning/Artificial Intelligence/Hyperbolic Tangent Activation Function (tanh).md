@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Hyperbolic tangent activation, also known as tanh, is similar to the [[Sigmoid Activation Function]] but it ranges from -1 to 1. The tanh function is zero-centered, and so it is symmetric around the origin of the coordinate system.
 
 ![[Pasted image 20240704124751.png]]

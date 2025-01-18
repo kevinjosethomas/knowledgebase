@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 ## Potential Problems
 
 #### Multicollinearity

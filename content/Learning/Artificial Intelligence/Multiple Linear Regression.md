@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 Multiple linear regression is used to determine the relationship between one dependent variable and two or more independent variables.
 
 ![[Pasted image 20240603224914.png]]

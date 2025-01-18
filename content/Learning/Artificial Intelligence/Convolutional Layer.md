@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Convolutional layers assist in tasks involving image/spatial data like image recognition, object detection, and more. Its primary purpose is to detect patterns in data (edges, shapes, textures in an image, etc), and these patterns are learned automatically during training and are spatially invariant. 
 
 ### How It Works

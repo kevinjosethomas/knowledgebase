@@ -1,3 +1,7 @@
+---
+date: '2024-12-13'
+---
+
 [Paper](https://aclanthology.org/2023.findings-eacl.127/)
 ![[Pasted image 20241209000758.png]]
 - In SignBank, there are roughly 220k parallel samples from 141 puddles covering 76 language pairs, yet the distribution is unbalanced

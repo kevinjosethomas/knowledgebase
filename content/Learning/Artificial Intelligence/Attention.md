@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 The Attention mechanism is a modern deep learning paradigm introduced in the paper [[Attention Is All You Need (Vaswani et al. 2017)]]. It introduced the [[Transformers|Transformer Architecture]], which is the key to the functioning of all modern large language models: GPT, Claude, Llama, and lots more.
 
 The initial goal was to improve [[Sequence2Sequence Models]] for neural machine translation, but the authors saw the potential for tasks like question-answering and what is now known as multimodal Generative AI. It has come to replace [[Recurrent Neural Networks (RNN)]] and [[Long Short-Term Memory (LSTM)]] models.

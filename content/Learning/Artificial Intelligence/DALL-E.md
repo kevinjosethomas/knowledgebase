@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 DALL-E is OpenAI's premier image generation model (text-to-image generation). It's a part of the GPT family of models but specifically designed for visual creativity and synthesis. 
 
 DALL-E uses a [[Transformers|Transformer Architecture]] but incorporates both text and image representations, essentially understanding how they correlate. This multimodal learning was enabled by [[Contrastive Language-Image Pretraining (CLIP)]]. DALL-E was trained on a massive dataset of image-text pairs which provided it with context to understand how descriptive language translates into visual elements.

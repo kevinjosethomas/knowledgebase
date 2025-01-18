@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 A multi-layer perceptron (MLP) is an artificial neural network that has multiple layers of neurons (including an input layer, at least one hidden layer, and an output layer). It is a feedforward network with fully connected neurons, and serves as an improvement to single-layer perceptrons. Most MLPs use activation functions such as [[Rectifier Linear Unit Activation Function (ReLU)]] or [[Sigmoid Activation Function]].
 
 ### Input Layer

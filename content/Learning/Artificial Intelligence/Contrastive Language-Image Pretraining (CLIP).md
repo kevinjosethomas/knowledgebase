@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 CLIP is a multimodal model developed by OpenAI which combines images and text to learn a shared representation of visual and textual information. It is widely used for zero-shot captioning of images.
 
 CLIP was trained using a contrastive learning approach, where it was trained on image-text pairs from the internet. This allowed it to learn which caption matches with which image by optimizing for similarity between correct image-text pairs and pushing apart incorrect pairs.

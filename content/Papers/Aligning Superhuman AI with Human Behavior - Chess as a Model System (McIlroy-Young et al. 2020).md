@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 [Paper](https://arxiv.org/pdf/2006.01855) /  [Code](https://github.com/CSSLab/maia-chess)
 
 - AI has increasingly matched or surpassed human performance in various domains, raising the potential for collaborative AI-human tasks. However, AI's problem-solving methods often differ from humans, making them hard to interpret or learn from.

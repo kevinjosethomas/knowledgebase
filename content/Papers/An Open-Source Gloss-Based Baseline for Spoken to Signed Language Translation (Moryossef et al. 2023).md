@@ -1,3 +1,7 @@
+---
+date: '2024-07-09'
+---
+
 [Paper](https://arxiv.org/abs/2305.17714)
 ### Introduction
 - Sign language systems are complicated, and its hard to compare methods across publications

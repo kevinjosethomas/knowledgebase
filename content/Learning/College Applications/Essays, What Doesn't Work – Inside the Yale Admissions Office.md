@@ -1,3 +1,7 @@
+---
+date: '2024-07-09'
+---
+
 [Spotify](https://open.spotify.com/episode/6f99vibOrc4XUUFu792GsG?si=cfb0cdfec6f64acf)
 
 - Many individual choices can be made well

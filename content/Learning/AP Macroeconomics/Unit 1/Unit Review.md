@@ -1,3 +1,7 @@
+---
+date: '2024-10-04'
+---
+
 ### Concepts you should know
 1. What are the two key aspects of the definition of demand?
 2. What is the Law of Demand?

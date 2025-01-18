@@ -1,3 +1,7 @@
+---
+date: '2024-07-05'
+---
+
 A vector is an array of one or more values, and they encode a length and a direction. They can represent a position or a change in position in some space. 
 
 ![[Pasted image 20240705003524.png]]

@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Backpropagation is an algorithm used to train neural networks by enabling them to learn from data and adjust the weights of their network. Modern backpropagation for training multi-layer neural networks was introduced by David Rumelhart, Geoffrey Hinton and Ronald Williams in a paper called "Learning representations by back-propagating errors".
 
 It starts with the forward pass, where data is inputted into the neural network. It moves layer by layer, and at each layer, inputs are multiplied by weights and passed through an [[Activation Function]] and produce outputs that feed into the next layer. Finally, the output layer provides a prediction based on the current weights.

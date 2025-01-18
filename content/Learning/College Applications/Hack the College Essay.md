@@ -1,3 +1,7 @@
+---
+date: '2024-11-07'
+---
+
 ### Chapter 1 – Write the Essay No One Else Could Write
 - If someone reading your essay gets the feeling some other applicant could have written it, then you're in trouble
 - AOs have limited time and most applications are stuff that looks the same

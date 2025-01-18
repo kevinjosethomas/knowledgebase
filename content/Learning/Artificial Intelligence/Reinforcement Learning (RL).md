@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 Among [[Supervised Learning]] and [[Unsupervised Learning]], Reinforcement Learning is one of the primary neural network learning paradigms. Reinforcement learning is primarily used in dynamic environments without predefined inputs and outputs. As it navigates its problem space, the program is provided with rewards (which it tries to maximize) and penalties (which it tries to minimize). 
 Reinforcement learning stems from a similar process in animal psychology: biological brains are hardwired to interpret signals such as pain and hunger as negative reinforcements, and interpret pleasure and food intake as positive reinforcements. Animals learn to engage in behaviours that minimize negative reinforcements and optimize the rewards.
 

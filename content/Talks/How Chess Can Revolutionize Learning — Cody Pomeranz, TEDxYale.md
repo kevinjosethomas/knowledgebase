@@ -1,3 +1,7 @@
+---
+date: '2024-07-05'
+---
+
 [YouTube](https://www.youtube.com/watch?app=desktop&v=A3yDvM8aplY)
 
 - Chess makes you smart

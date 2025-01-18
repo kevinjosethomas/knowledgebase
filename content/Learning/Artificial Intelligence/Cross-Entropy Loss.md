@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Cross-entropy loss is used in classification problems, especially when multiple classes are involved. It measures the difference between the predicted probability distribution and the actual class labels (ground truth), where the goal is to minimize the difference so that predicted probabilities match the true labels as closely as possible.
 
 Cross-entropy essentially penalizes predictions that deviate from the true label's probability (which should ideally be 1 for the correct class and 0 for the others)

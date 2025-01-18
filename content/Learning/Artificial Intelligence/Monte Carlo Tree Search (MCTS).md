@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 ## Sources
 - https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
 - https://builtin.com/machine-learning/monte-carlo-tree-search

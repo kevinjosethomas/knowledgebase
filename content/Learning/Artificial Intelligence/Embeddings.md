@@ -1,3 +1,7 @@
+---
+date: '2024-07-04'
+---
+
 Embeddings are numerical representations of values like text, images and audio that are designed to be consumed by [[Machine Learning]] models and [[Semantic Search]] algorithms. Ideally, embeddings capture the semantics of inputs by placing semantically similar inputs closer together in the embedding space. With semantic search, embeddings also enable ML models to search for objects based on similarity, semantics or context. Embeddings are also key to the functioning of [[Large Language Model (LLM)]].
 
 Since mathematical models cannot interpret information like text, images and audio, embeddings allow us to convert them into [[Vector|vectors]]. These numerical values represent information in a multi-dimensional space and help models understand the similarities among various items.

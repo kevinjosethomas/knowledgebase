@@ -1,3 +1,7 @@
+---
+date: '2024-07-03'
+---
+
 A fundamental concept in probability theory that describes how to update the probability of a hypothesis based on new evidence. 
 
 $$P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}$$
