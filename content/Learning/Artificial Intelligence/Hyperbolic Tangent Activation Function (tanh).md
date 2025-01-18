@@ -9,5 +9,5 @@ $$
 
 While it is more performant than the sigmoid function for MLPs, it did not solve the vanishing gradient problem of sigmoids. This was tackled more effectively by [[Rectifier Linear Unit Activation Function (ReLU)]]. 
 
-## Sources
+### Sources
 - https://www.datacamp.com/tutorial/introduction-to-activation-functions-in-neural-networks

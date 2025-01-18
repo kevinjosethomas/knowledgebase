@@ -13,6 +13,6 @@ A basic RL agent interacts with its environment in discrete time steps. At each 
 
 When the agent's performance is compared to that of an agent that acts optimally, the difference in performance is described as <span class="highlight">regret</span>. To act near optimally, the agent must reason about the long-term consequences of its actions (maximize future income), although the immediate associated reward might be negative.
 
-## Sources
+### Sources
 - https://en.wikipedia.org/wiki/Reinforcement_learning
 

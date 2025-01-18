@@ -4,5 +4,5 @@ Just like a perceptron, the sigmoid neuron has inputs and outputs as well. Howev
 $$\sigma(\mathbf{w} \cdot \mathbf{x} + \mathbf{b})$$
 where $\sigma$ is the [[Sigmoid Activation Function]] (logistic function).
 
-## Sources
+### Sources
 - http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons

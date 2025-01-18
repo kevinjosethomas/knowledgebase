@@ -8,7 +8,7 @@ Some of the most widely used activation functions are:
 - [[Sigmoid Activation Function]]
 - [[Softmax Activation Function]]
 - [[Hyperbolic Tangent Activation Function (tanh)]]
-## Sources
+### Sources
 - https://en.wikipedia.org/wiki/Activation_function
 - https://www.v7labs.com/blog/neural-networks-activation-functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6

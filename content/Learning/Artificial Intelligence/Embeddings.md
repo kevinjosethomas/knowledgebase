@@ -8,7 +8,7 @@ In embedding space, certain dimensions might be associated with certain semantic
 
 ![[Pasted image 20240705002137.png]]
 
-## Sources
+### Sources
 - https://aws.amazon.com/what-is/embeddings-in-machine-learning
 - https://www.cloudflare.com/learning/ai/what-are-embeddings/
 - https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture

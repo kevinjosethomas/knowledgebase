@@ -12,5 +12,5 @@ $$
 
 It is typically followed by the [[Argmax Function]] to finally decide on the class with the highest probability.
 
-## Sources
+### Sources
 - https://www.pinecone.io/learn/softmax-activation/

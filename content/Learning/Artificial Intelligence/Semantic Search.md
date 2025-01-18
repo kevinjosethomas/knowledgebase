@@ -66,7 +66,7 @@ Partition the data into different cells and assign a centroid for each partition
 
 ![[Pasted image 20240705002011.png]]
 
-## Sources
+### Sources
 - https://www.elastic.co/what-is/semantic-search
 - https://www.singlestore.com/blog/a-complete-guide-to-semantic-search-for-beginners/
 - https://medium.com/@sudhiryelikar/understanding-similarity-or-semantic-search-and-vector-databases-5f9a5ba98acb

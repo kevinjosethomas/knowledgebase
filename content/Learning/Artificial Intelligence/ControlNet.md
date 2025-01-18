@@ -6,5 +6,5 @@ Below is an example of how ControlNet improves video generation and diffusion in
 
 ![[Pasted image 20241109122549.png]]
 
-## Sources
+### Sources
 - https://github.com/sign-language-processing/pose-to-video

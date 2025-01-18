@@ -1,6 +1,6 @@
 DBSCAN Clustering allows unsupervised grouping data (we don't train a model) based on the initial similarity of the data. It is considered the most popular technique used for grouping data points or objects that are somewhat familiar. It uses the density of points to define a cluster and does not required the number of clusters to be defined.
 
-## Terms
+### Terms
 - **Epsilon:** radius which defines a neighborhood of points around a center point
 - **Core Point:** a point at the center of the cluster
 - **Minpts:** (density threshold) the minimum number of points that must exist inside the epsilon radius from a core point
@@ -11,7 +11,7 @@ DBSCAN Clustering allows unsupervised grouping data (we don't train a model) bas
 
 ![[Pasted image 20240611181917.png]]
 
-## Algorithm
+### Algorithm
 1. Find all core points in the dataset
 2. Randomly pick a core point and assign it to a cluster
 3. Extend the cluster by adding surrounding core points that are within the epsilon of another core point

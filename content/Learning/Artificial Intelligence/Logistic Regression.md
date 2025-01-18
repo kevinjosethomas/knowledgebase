@@ -2,5 +2,5 @@ Logistic regression is used to estimate the probability of an event occurring, b
 
 ![[Pasted image 20240604101122.png]]
 
-## Sources
+### Sources
 - https://www.ibm.com/topics/logistic-regression

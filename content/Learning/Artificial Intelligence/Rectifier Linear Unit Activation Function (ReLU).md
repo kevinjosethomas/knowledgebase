@@ -5,5 +5,5 @@ $$
 f(x) = max(0, x)
 $$
 In contrast to the [[Sigmoid Activation Function]] and the [[Softmax Activation Function]], it is not affected by the vanishing gradient problem, which hinders the learning process in deep neural networks. Furthermore, it is more computationally efficient than functions like the [[Sigmoid Activation Function]] and the [[Hyperbolic Tangent Activation Function]].
-## Sources
+### Sources
 - https://www.dremio.com/wiki/relu-activation-function/#:~:text=The%20ReLU%20activation%20function%20works,%3D%20max(0%2C%20x)

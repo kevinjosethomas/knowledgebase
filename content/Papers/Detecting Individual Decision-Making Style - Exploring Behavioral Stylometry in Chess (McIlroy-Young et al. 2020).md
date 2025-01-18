@@ -1,6 +1,6 @@
 [Paper](https://papers.nips.cc/paper/2021/file/ccf8111910291ba472b385e9c5f59099-Paper.pdf)
 
-## Introduction
+### Introduction
 - Machine learning models have surpassed human decision-making in many domains
   - This has led to people building AI models that interact with humans
   - The goal is to interact and collaborate with humans
@@ -15,12 +15,11 @@
 - They adopt a transformer-based approach that is used in traditional stylometry of speech verification and extend these models to the complex data found in chess
   - The model is able to create embeddings of players and games, revealing a structure of human style in chess. Players who are stylistically similar are clustered together in the space.
 
-## Background
-
+### Background
 - Speaker verification is the binary process of classifying whether a given a certain utterance, the model verifies if it was from the speaker or not. Recent approaches use embeddings in a vector space to distinguish between different voices.
 - Stylometry is the overarching task of detecting and analyzing authorial style. For example, de-anonymizing programmers from their code, identifying age and gender from blog posts and distinguishing between machine-generated text and human-generated text.
 
-## Methodology
+### Methodology
 - The model has three main components:
 	- Extracting features from individual moves (residual blocks)
 	- Aggregates move-level features to game-level vectors (transformers)
@@ -50,7 +49,7 @@
 	- This 512-dimension embedding vector encodes the decisions made by the player in the game. At inference time, the player vector is obtained by simply averaging all the game vectors that belong to the player
 - The model is trained with a batch size of 800 games, where it is fed 20 games of 40 different players
 
-## Evaluation
+### Evaluation
 #### Data
 - They get a lot LOT of data from Lichess and it is essentially split into seen and unseen sets. The seen dataset is used for the training task, while unseen will be used for testing and evaluation. This prevents any potential overlap in the future.
 - Each set is also split into:

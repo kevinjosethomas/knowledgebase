@@ -13,5 +13,5 @@ The gradient descent algorithm essentially makes steps into the direction of the
 
 One needs to ensure that the learning rate isn not too low nor too high. If the steps are too big, it may not reach the local minimum because it will keep bouncing back and forth between positive and negative slopes. If the steps are too small, it will eventually reach a local minimum but there might be much more optimal (global) minimums.
 ![[Pasted image 20240704140152.png]]
-## Sources
+### Sources
 - https://builtin.com/data-science/gradient-descent

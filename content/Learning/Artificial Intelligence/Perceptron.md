@@ -16,5 +16,5 @@ The bias, equal to the negative threshold, is how easy it is to get a perceptron
 
 We can develop *learning algorithms* which can automatically tune the weights and biases of a network of perceptrons, without direct intervention from a programmer. This allows us to use perceptrons in a way which is different from normal existing logic gates.
 
-## Sources
+### Sources
 - http://neuralnetworksanddeeplearning.com/chap1.html#perceptrons

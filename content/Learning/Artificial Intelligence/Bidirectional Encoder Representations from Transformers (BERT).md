@@ -5,7 +5,7 @@ BERT uses the Transformer architecture, so it processes text and captures the de
 Once trained, BERT can be fine-tuned on specific datasets for various NLP tasks. Because of its deep contextual understanding, BERT is used in applications that require nuanced language understanding, such as search engines, chatbots, sentiment analysis, and more.
 
 ![[Pasted image 20241109121345.png]]
-## Sources
+### Sources
 - https://en.wikipedia.org/wiki/BERT_(language_model)
 - https://arxiv.org/pdf/1810.04805
 - https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model

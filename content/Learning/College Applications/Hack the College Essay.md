@@ -1,4 +1,4 @@
-## Chapter 1 – Write the Essay No One Else Could Write
+### Chapter 1 – Write the Essay No One Else Could Write
 - If someone reading your essay gets the feeling some other applicant could have written it, then you're in trouble
 - AOs have limited time and most applications are stuff that looks the same
 	- After reading your essay, will the AO know something specifically about you? Or will you be indistinguishable from all the other applicants?
@@ -11,24 +11,24 @@
 	- Trying to do this makes you indistinguishable
 
  > **Try this: write a page of an essay and then go to the top and reread. For each sentence, think: is this something someone else could have written? If so, cross it out and keep reading. Keep writing till you find those sentences**
-## Chapter 2 – Writing is Easy and Fast
+### Chapter 2 – Writing is Easy and Fast
 - Don't make it complicated
 - Steer clear of Big Ideas and Truths
 - They aren't looking for Truth, Transformation, Maturity, or Life itself
 - They are looking for an individual personality
 
 > **Try this: Use clear, simple language. Avoid big or fancy words that make your essay sound less personal. Write as you speak to maintain authenticity.**
-## Chapter 3 – Thinking = Talking = Writing
+### Chapter 3 – Thinking = Talking = Writing
 - "The way I tutor the college essay is simple. I get you talking. I do that by asking you questions, saying things that surprise you, and getting you to think in new ways. We talk about your adventures and experiences, or a picture on the wall, or just about anything."
 	- If you talk about things in very general ways, I ask what you really mean: Like what? Like when? For example? And if you make a claim, I ask why you think what you think. Often the answer is something you’re reluctant to say. Or it may conflict with something you said five minutes ago. I’ll call you on it and ask you to explain. On and on we go, talking about whatever comes up.
 	- And then— when I hear something so personal, so particular, so true that no one else could have said it, “Write it down,” I say. “Word for word. Now, keep writing. Don’t overthink it, just write down the story you started to tell me, just like you were still talking.” Next thing you know, you’ve got a draft of your essay right in front of you.
 
 > **Try this: just write, don't try to translate speech to writing, don't try to improve anything. Not wanting to write something down is a good sign that you should. Don't think of a topic or a theme. Focus on what sounds different or uncomfortable instead of brilliant and insightful. Don't outline and organize, just write.**
-## Chapter 4 – Don't Sweat the Prompts
+### Chapter 4 – Don't Sweat the Prompts
 - The goal of the essay is to just write something that only you can write about yourself
 - Don't try to write an intro and a conclusion and everything
 - Talk about yourself
-## Chapter 5 – Stick to Your Facts
+### Chapter 5 – Stick to Your Facts
 - Students often think, “I want the admissions committee to think I’m the kind of person who X.”
 	- They generalize to sound like a kind of person instead of sounding like themselves
 	- They tell a story of the kind of person they want to appear to be
@@ -42,7 +42,7 @@ I dropped the tip of my foil below my opponent’s bell guard, cautiously advanc
 - The details seem made up. Do you really believe that the narrator thought to herself “beautiful!” after her lunge but before she noticed that she missed? Was the building’s musty smell really on her mind? Don’t be fooled by “polished” writing.
 - Too many essays adopt the voice of the disinterested observer, a fly on the wall who has no stake in the story. People think they need to be objective. Why would you want to be objective?
 - Just tell what happened. Don’t outsmart yourself by hunting around for details that aren’t relevant to you, or dramatizing details because you think they sound great
-## Chapter 6 – Don't Try To Be Deep
+### Chapter 6 – Don't Try To Be Deep
 - A good essay reveals your honest way of thinking, without trying to impress the reader
 - Essays that try to explain your great moral transformation or found truth are bad
 ```
@@ -53,7 +53,7 @@ to
 Living in Ipswich Gardens with my stepdad Luke, I learned the hard way about needing to pull my own weight: if you don’t water the lettuce in June, there is literally no salad at dinner in August.
 ```
 - it might reveal a truth about responsibility but it relies on a specific place and a specific vegetable and a specific family member
-## Chapter 7 – Explore the Other SIde
+### Chapter 7 – Explore the Other SIde
 Who’s more powerful, ten-year-olds or their parents?
 ```
 That’s a silly question. Obviously adults are more powerful because they call the shots. Parents force kids to do homework. They drive the car and have the money to buy groceries.
@@ -77,20 +77,20 @@ I have to admit, when our school organized “Free Lunch in Eureka Park” I was
 	- When we talk candidly about our experiences we explore the other side naturally
 	- When it comes time to “polish” the essay, these thoughts get cut
 
-## Chapter 8 – Use Small Words
+### Chapter 8 – Use Small Words
 - If you were trying to explain to someone exactly why she should not shoot you, would you risk using big fancy words? Would you risk using words that might mean something a little different to her than they do to you? No way, because a mistake like that could cost you your life!
 
-## Chapter 9 – Embrace Cliché
+### Chapter 9 – Embrace Cliché
 - Instead of *original*, think *personal*
 	- Instead of trying to be new, just make sure your experiences and thoughts are so personal and so true that no one else could have written them
 - You just gotta read the book for this chapter
 
-## Chapter 10 – Fail
+### Chapter 10 – Fail
 - Accomplishments tend to sound the same, making them risky essays
 - Failure is personal
 - Don't try to tell deep reflection from failure, it will be visible regardless
 
-## Chapter 11 – Make Something from Nothing
+### Chapter 11 – Make Something from Nothing
 - You can also talk about dreams and ambitions and things you could not do
 ```
 The idea of playing sports as a kid was not as appealing to my parents as it was to me. They were happy to have me back from the field and into the Kurdish fold at home. This was nothing new: when I started pre-school I couldn’t speak any English, only Farsi, and I always felt like I was missing out on something the other kids were doing. Sports were part of that mystery to me, a mystery I wanted to solve.
@@ -105,7 +105,7 @@ I never got to experience the cliché of going to the baseball game where my fat
 The game I see is different from the one my father sees. He is mesmerized by players running around the bases and catching balls, but I keep careful track of the pitch-count and watch OBP stats as they shift before our eyes. Although my father doesn’t know who Billy Beane is, I like that Billy was willing to distance himself from the league to create the best team. And I also think Beane might like how I found my own way to love baseball without playing little-league in Beverly Hills.
 ```
 
-## Chapter 12 – Tell a Secret
+### Chapter 12 – Tell a Secret
 - Questions:
 	- What’s the one thing most people don’t know about me?
 	- What’s the one thing I always avoid telling people about myself? 
@@ -113,8 +113,8 @@ The game I see is different from the one my father sees. He is mesmerized by pla
 - "Zev is a great squash player, and he wants to play in college. He wants to write about squash. **I tell him to write about something else, because the one thing they already know about Zev is that he’s a great squash player.** But he wants to write about squash. Well, why paddle against the current? When people have an obsession, sometimes there’s more there than meets the eye. I start asking questions."
 - Don’t share something that makes people feel icky, or makes you look crazy, or dangerous, or risky to have as a roommate or in a college freshman class.
 
-## Chapter 13 – Care
+### Chapter 13 – Care
 - Read the book
 
-## Chapter 14 – Make it Clear
+### Chapter 14 – Make it Clear
 - Best chapter

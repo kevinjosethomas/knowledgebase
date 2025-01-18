@@ -3,5 +3,5 @@ Recurrent Neural Networks are designed to process sequential data: timeseries, t
 RNNs have multiple steps in their inference process. At each time step, it takes the current input (e.g.: a word in a sentence) and combines it with hidden state from the previous step. This hidden state essentially serves as memory, holding onto relevant information from earlier. The RNN then produces an output (prediction/classification/etc) at each step, usually depending on both the current input and memory of past inputs in the hidden state.
 
 ![[Pasted image 20241107234739.png]]
-## Sources
+### Sources
 - https://towardsdatascience.com/introducing-recurrent-neural-networks-f359653d7020

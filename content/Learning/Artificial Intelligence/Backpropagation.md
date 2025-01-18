@@ -10,7 +10,7 @@ Now, backpropagation uses this calculated error to adjust the weights in the net
 
 Once we have the gradients, backpropagation slightly adjusts the weights in each direction and that will reduce the loss. The amount we adjust each weight is scaled by a learning rate, the hyperparameter that determines the step size for weight adjustments. A small learning rate means small adjustments and slower learning, while a higher learning rate means larger adjustments. This can speed up learning but might also risk overshooting the optimal solution because taking larger steps while traversing the gradient might lead to missing a local minimum.
 
-## Sources
+### Sources
 - https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd
 - https://builtin.com/machine-learning/backpropagation-neural-network
 - https://en.wikipedia.org/wiki/Backpropagation

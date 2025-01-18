@@ -14,7 +14,7 @@ where:
 
 ![[Pasted image 20240714190306.png]]
 
-## Sources
+### Sources
 - https://en.wikipedia.org/wiki/AlexNet
 - https://www.analyticsvidhya.com/blog/2021/03/introduction-to-the-architecture-of-alexnet
 - https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf

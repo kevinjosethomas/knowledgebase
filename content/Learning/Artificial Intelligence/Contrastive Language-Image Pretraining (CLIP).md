@@ -10,5 +10,5 @@ An interesting interpretability finding from OpenAI was the idea of [Multimodal 
 
 ![[Pasted image 20241109122015.png]]
 
-## Sources
+### Sources
 - https://openai.com/index/clip/

@@ -6,5 +6,5 @@ Argmax is used to narrow down the final classification for various activation fu
 
 ### Limitations
 One limitation of the argmax function is that all its gradients are always zero. Since [[Backpropagation|backpropagation]] is dependent on calculating a loss function based on the misclassified elements in the vector, argmax cannot be used during the training of a neural network as there will be no learning.
-## Sources
+### Sources
 - https://www.pinecone.io/learn/softmax-activation/

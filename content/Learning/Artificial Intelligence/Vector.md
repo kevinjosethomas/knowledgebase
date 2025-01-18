@@ -4,5 +4,5 @@ A vector is an array of one or more values, and they encode a length and a direc
 
 Vectors are commonly used in [[Machine Learning]] as they provide a convenient machine-readable way to organize data. 
 
-## Sources
+### Sources
 - https://medium.com/@sudhiryelikar/understanding-similarity-or-semantic-search-and-vector-databases-5f9a5ba98acb
