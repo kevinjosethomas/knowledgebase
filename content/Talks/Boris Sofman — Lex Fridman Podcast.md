@@ -1,7 +1,6 @@
 ---
 date: '2024-12-06'
 ---
-
 ### Startups
 - Sometimes it really is a matter of timing, a little bit of luck—some things are just out of your control. You get a much deeper appreciation for the dimensionality of that challenge when you talk to a lot of founders.
 ### Uncanny Valley

@@ -1,7 +1,6 @@
 ---
 date: '2024-07-05'
 ---
-
 Semantic search, also known as vector search, enables ranking content based on context relevance. It is at the forefront of the paradigm shift in how we access information as we transition from keyword-based retrieval to a more nuanced, context-based, dialogue-driven search function. Semantic search also players a significant role in [[Generative AI]] and [[Large Language Model (LLM)|LLMs]] since they are also used to generate content that aligns with user intent and context. 
 
 ![[Pasted image 20240705002229.png]]

@@ -1,7 +1,6 @@
 ---
 date: '2024-07-04'
 ---
-
 Among [[Supervised Learning]] and [[Reinforcement Learning (RL)]], Unsupervised Learning is one of the primary neural network learning paradigms. In this paradigm, the computer is given unlabeled data, leaving it on its own to find structure in its input. Unsupervised learning can be used to discover hidden patterns in data without any explicit guidance or instruction.
 
 These models use self-learning algorithms, so they infer their own rules and then structure the information based on patterns. These algorithms are suitable for complex processing tasks like organizing large datasets into clusters.

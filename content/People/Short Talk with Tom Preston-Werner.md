@@ -1,7 +1,6 @@
 ---
 date: 2024-02-11
 ---
-
 - A new age of AI → we should prepare for a potentially different system than capitalism
 	- Capitalism has taken us pretty far up until now, but looking at the future of AI, when we get to a point where AI can do mundane, menial tasks, what do we do?
 	- Capitalism will continue to drive companies to push the limits of ethics, putting many people out of a job; however, there is also the utopia where humanity can continue to thrive, pursuing our passions while AI does menial work; capitalism will most likely push for the former, so there may need to be a shift in ideology

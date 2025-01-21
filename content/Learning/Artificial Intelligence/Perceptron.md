@@ -1,7 +1,6 @@
 ---
 date: '2024-07-03'
 ---
-
 A perceptron, also referred to as a neuron, takes in several binary inputs and produces a single binary output. 
 ![[Pasted image 20240701160708.png]]
 

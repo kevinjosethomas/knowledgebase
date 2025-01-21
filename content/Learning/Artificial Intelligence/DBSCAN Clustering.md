@@ -1,7 +1,6 @@
 ---
 date: '2024-07-03'
 ---
-
 DBSCAN Clustering allows unsupervised grouping data (we don't train a model) based on the initial similarity of the data. It is considered the most popular technique used for grouping data points or objects that are somewhat familiar. It uses the density of points to define a cluster and does not required the number of clusters to be defined.
 
 ### Terms

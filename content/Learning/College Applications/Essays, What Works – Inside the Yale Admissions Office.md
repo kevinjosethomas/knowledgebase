@@ -1,7 +1,6 @@
 ---
 date: '2024-07-09'
 ---
-
 [Spotify](https://open.spotify.com/episode/0efQOnRCH8UVkdd0Hx2Vfe?si=69a16a8f47614d9b)
 
 AOs love to read and learn from the essays of such a creative, diverse, intelligent group of students. These essays are essentially the opening scene of a movie or the first page of a book ~ it sets the table for what to expect.

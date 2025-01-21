@@ -1,7 +1,6 @@
 ---
 date: '2024-11-08'
 ---
-
 BERT is Google's language model for [[Natural Language Processing]] tasks, which understands the context of words in relation to their surroundings within a sentence. This makes it very effective for tasks like question-answering, text classification, and sentiment analysis.
 
 BERT uses the Transformer architecture, so it processes text and captures the dependencies and relationships between words. BERT also reads text bi-directionally so it can capture the full context surrounding each word. It was trained by randomly masking words in a sentence and then predicting the masked words based on the surrounding context.

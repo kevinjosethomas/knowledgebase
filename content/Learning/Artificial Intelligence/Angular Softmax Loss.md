@@ -1,7 +1,6 @@
 ---
 date: '2024-07-04'
 ---
-
 Angular Softmax Loss, also known as Additive Angular Margin Softmax, is another loss function which enhance's a model's ability to differentiate between classes by adding an angular margin to the [[Softmax Activation Function]]. It is mostly used for face recognition and speaker recognition.
 
 Typically, softmax loss calculates probability scores for each class by taking the dot product of the feature vector (neural network output) and the weight vector corresponding with each class. Then, softmax activation converts these scores into probabilities. However, to improve discriminative power, angular softmax adds an angular margin to the classification. For applications like face recognition, the angle between feature vectors is more meaningful than their magnitude. Essentially, angular softmax loss separates classes by angles rather than Euclidean distance.

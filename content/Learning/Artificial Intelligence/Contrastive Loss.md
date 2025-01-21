@@ -1,7 +1,6 @@
 ---
 date: '2024-07-04'
 ---
-
 Contrastive loss is another loss function used specifically when we want to learn a feature space where similar data points are closer together and dissimilar data points are further apart. Its often used for metric learning tasks like face verification, image retrieval, and self-supervised learning.
 
 It involves:

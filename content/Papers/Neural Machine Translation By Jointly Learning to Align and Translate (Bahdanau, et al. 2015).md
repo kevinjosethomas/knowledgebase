@@ -1,7 +1,6 @@
 ---
 date: '2024-07-19'
 ---
-
 [Paper](https://arxiv.org/pdf/1409.0473)
 ### Introduction
 - Neural machine translation attempts to create a single neural network which uses encoders and decoders to parse the input sentence into a fixed-length vector, which is then decoded back to text in the target language

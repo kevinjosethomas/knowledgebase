@@ -1,7 +1,6 @@
 ---
 date: '2025-01-17'
 ---
-
 Diffusion models are a type of Generative AI models that are used particularly in fields like image generation, denoising, and text-to-image tasks. It has gained significant attention due to its success in producing high quality outputs, as seen in tools like [[DALL-E]].
 
 Diffusion models can produce realistic and detailed results, often surpassing [[Generative Adversarial Networks (GAN)]]. Similarly, unlike GANs, they are less prone to collapse where the model only generates a limited variety of outputs. However, diffusion models are computationally expensive and requires careful tuning.

@@ -1,7 +1,6 @@
 ---
 date: '2024-07-04'
 ---
-
 The softmax function transforms the outputs from hidden layers into a vector of probabilities that serve as a probability distribution. For example, if we have a multiclass classification problem with ``N`` possible classes, the softmax activation function will return an output vector that is exactly ``N`` entries long.
 
 ![[Pasted image 20240704130950.png]]

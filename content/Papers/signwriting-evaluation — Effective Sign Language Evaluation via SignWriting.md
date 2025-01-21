@@ -1,7 +1,6 @@
 ---
 date: '2024-12-06'
 ---
-
 [Paper](https://arxiv.org/pdf/2410.13668) / [Code](https://github.com/sign-language-processing/signwriting-evaluation)
 
 SignWriting, which is a visual written notation for sign languages, lacks tailored evaluation metrics. Existing metrics like BLEU and chrF are not suitable as SignWriting has visual and spatial properties. The ``signwriting-evaluation`` toolkit presents a new **Symbol Distance Metric** that can be used to evaluate signwriting.

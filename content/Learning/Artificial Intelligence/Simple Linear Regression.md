@@ -1,7 +1,6 @@
 ---
 date: '2024-07-03'
 ---
-
 Also known as the best-fit line or the least-squares regression line, linear regression models are the most commonly used predictive modelling technique. Essentially, it creates a linear line to fit plotted data such that the line minimizes the distances between the points to the line.
 
 ![[Pasted image 20240603224706.png]]

@@ -1,7 +1,6 @@
 ---
 date: '2024-12-06'
 ---
-
 ### Corruption in Politics & Healthcare
 - Bernie's ideas aren't radical, as often described. Minimum wage, healthcare for all, equal taxes—all popular ideas. It's just that the establishment doesn't like them.
 - Bernie, AOC, and other similar political candidates run outsider campaigns, where, despite being socialist/left, they take on the Democratic establish and win through grassroots movements. They focus on ideas supporting the working class people

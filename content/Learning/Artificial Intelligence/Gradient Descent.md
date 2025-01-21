@@ -1,7 +1,6 @@
 ---
 date: '2024-07-04'
 ---
-
 Gradient descent is an optimization strategy that is used to train data models. It is a function that continuously tweaks its parameters to minimize a given loss function to its local minimum. Essentially, it is used to find the specific weights and biases (and other parameters) to minimize the final cost function as far as possible.
 
 ### Gradients
