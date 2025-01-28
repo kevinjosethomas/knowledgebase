@@ -1,7 +1,7 @@
 ---
 date: '2024-07-03'
 ---
-A fundamental concept in probability theory that describes how to update the probability of a hypothesis based on new evidence. 
+Bayes theorem is a fundamental concept in probability theory that describes how to update the probability of a hypothesis based on new evidence. It is a foundational [[Supervised Learning|supervised learning]] algorithm.
 
 $$P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}$$
 
@@ -16,7 +16,7 @@ The theorem is useful because it does not require joint probabilities to calcula
 Multinomial Naive Bayes is used for classifying things that can be counted, like words in a document (discrete data). For example, if we were trying to classify emails as spam/not-spam, multinomial naive bayes will:
 - learn how often each word (like "free" or "win") appears in spam and not-spam emails
 - compare the counts in new emails with what it has learned to decide if the new email is spam or not
-It is used for classification with discrete features.
+It is used for classification with discrete features, and often used in [[Natural Language Processing|natural language processing]] tasks.
 ### Gaussian Naive Bayes Classifier
 Gaussian Naive Bayes is used to classify things with numbers that can vary, like height, weight or temperature. It looks at many examples and learns about average values and the spread of each trait. When it sees an example, it checks the values and guesses which type it is based on the averages and spreads it has classified. For example, if you were trying to classify people as healthy or sick based on their temperature and blood pressure, gaussian naive bayes will:
 - learn the average temperature and blood pressure of healthy and sick people, as well as how much this varies

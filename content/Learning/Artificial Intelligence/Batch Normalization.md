@@ -1,7 +1,7 @@
 ---
 date: '2024-07-04'
 ---
-Batch Normalization is used to improve training stability and speed in neural networks by standardizing the inputs to each layer within a batch. It helps address internal covariate shift—where changing parameters during training causes distributions of each layer's inputs to vary. This slows down training or leads to model instability.
+Batch normalization is used to improve training stability and speed in neural networks by standardizing the inputs to each layer within a batch. It helps address internal covariate shift—where changing parameters during training causes distributions of each layer's inputs to vary. This slows down training or leads to model instability. Batch normalization usually directly interacts with [[Activation Function|activation functions]] (like [[Rectifier Linear Unit Activation Function (ReLU)|ReLU]], [[Sigmoid Activation Function|sigmoid]], and [[Hyperbolic Tangent Activation Function (tanh)|tanh]]) as it standardizes layer inputs before activation.
 
 1. **Compute the Mean and Variance:** For each training batch, calculate the mean and variance of each feature
 $$\mu_{\text{batch}} = \frac{1}{m} \sum_{i=1}^m x_i$$

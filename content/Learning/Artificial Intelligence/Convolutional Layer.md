@@ -1,7 +1,7 @@
 ---
 date: '2024-07-04'
 ---
-Convolutional layers assist in tasks involving image/spatial data like image recognition, object detection, and more. Its primary purpose is to detect patterns in data (edges, shapes, textures in an image, etc), and these patterns are learned automatically during training and are spatially invariant. 
+Convolutional layers assist in tasks involving image/spatial data like image recognition, object detection, and more. Its primary purpose is to detect patterns in data (edges, shapes, textures in an image, etc), and these patterns are learned automatically during training and are spatially invariant. They are fundamental to the development of the [[Convolutional Neural Network (CNN)]].
 
 ### How It Works
 1. **Input:** The input is usually a 3D tensor consisting of height, width, and depth (number of channels, like 3 for an RGB image).

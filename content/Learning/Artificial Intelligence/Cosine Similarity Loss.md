@@ -1,7 +1,7 @@
 ---
 date: '2025-01-17'
 ---
-Cosine similarity is used to determine how similar two vectors in an embedding space are based on the angle between them. Its used in tasks like text similarity, recommendation systems, and metric learning.
+Cosine similarity is used to determine how similar two vectors in an embedding space are based on the angle between them. Its used in tasks like text similarity, recommendation systems, and metric learning. [[Euclidean Distance]] is another measure of similarity within an [[Embeddings|embedding]] space.
 
 Cosine similarity **loss** essentially aims to minimize the cosine similarity between vectors when they are dissimilar, and maximizes when they are similar. It is implemented in [[Contrastive Loss]].
 

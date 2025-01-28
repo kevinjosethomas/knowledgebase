@@ -1,7 +1,7 @@
 ---
 date: 2025-01-20
 ---
-Euclidean distance is a measure of the straight-line distance between any two points in a Euclidean space. Its quite literally just the Pythagorean theorem but scaled up quite a bit.
+Euclidean distance is a measure of the straight-line distance between any two points in a Euclidean space. Its quite literally just the Pythagorean theorem but scaled up quite a bit. Similar to [[Cosine Similarity Loss|cosine similarity]], euclidean distance is often used to measure similarity within an [[Embeddings|embedding]] domain.
 
 The general formula for Euclidean distance in $n$-dimensional space is
 $$
