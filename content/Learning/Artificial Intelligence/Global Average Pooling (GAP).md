@@ -1,0 +1,8 @@
+---
+date: 2025-01-28
+---
+Global Average Pooling is a technique used in [[Convolutional Neural Network (CNN)]] to reduce the spatial dimensions of feature maps while preserving their channel-wise information. Unlike [[Fully-Connected Layer|fully-connected dense layers]], which flatten feature maps into vectors, GAP uses a spatial average operation to each channel independently. Essentially, this registers the data while retaining most of the important information. 
+
+For example, if the feature map has dimensions $H \times W \times C$ (height, width, and channels), global average pooling turns it into a vector of size $C$ by averaging all the $H \times W$ values in each channel. This helps simplify the model and less likely to overfit, while still being effective for tasks like classification. 
+
+The main advantage of global average pooling is that it doesn't need extra parameters like fully-connected layers do. This makes the model smaller and easier to train and is commonly used in architectures like [[ResNet]] to simplify the network and directly connect feature maps to class probabilities. For classification, the result from GAP can be passed into a [[Softmax Activation Function|softmax layer]] to get the probabilities for each class. Essentially, GAP replaces complex layers with a simple averaging operation, reducing model size and complexity while preserving key information from the feature maps.

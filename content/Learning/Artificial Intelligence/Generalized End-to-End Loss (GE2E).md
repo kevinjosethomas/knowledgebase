@@ -5,7 +5,6 @@ Generalized End-to-End (GE2E) loss is a loss function often used in speaker veri
 
 It is useful for speaker discrimination, batch-based training and tighter clustering. 
 ### How It Works
-
 It operates by:
 1. Comparing speaker embeddings in a batch
 2. Encouraging embeddings of the same speaker to align closely (causes intra-class compactness)

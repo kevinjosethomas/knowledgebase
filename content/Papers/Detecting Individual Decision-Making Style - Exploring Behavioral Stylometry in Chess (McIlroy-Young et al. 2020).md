@@ -33,7 +33,7 @@ date: '2024-07-04'
 		- First 24 channels encode a specific type of chess piece (6 for each side in one position, and two encoded positions) and the next 10 channels are to encode position metadata (such as repetition, castling rights, active player's side, etc)
 		- The output is a 320-dimensional vector that characterizes every move
 	- Each residual block contains [[Convolutional Layer|convolutional layers]], [[Batch Normalization|batch normalization]], [[Rectifier Linear Unit Activation Function (ReLU)||ReLU activation functions]] and [[Squeeze and Excitation Blocks (SE)|squeeze-and-excitation blocks]]
-	- Then, [[Global Average Pooling|global average pooling]] summarizes the residual block output into a 1x1x320 feature map  which is flattened to a 320 dimensional vector
+	- Then, [[Global Average Pooling (GAP)|global average pooling]] summarizes the residual block output into a 1x1x320 feature map  which is flattened to a 320 dimensional vector
 	- Hyperparameters were chosen to match Maia: 6 residual blocks with a channel size of 64, and a reduction ratio of 8 for SE blocks
 #### Game-Level Aggregation
 - Constructs a game representation by taking in a sequence of move features from the first component
