@@ -8,6 +8,7 @@ GANs have been largely used for image synthesis, style transfer, data augmentati
 Similar to [[Diffusion Models]], the generator takes random noise input and transforms it into synthetic data, such as images or audio. Conversely, the discriminator receives both real and generated data and outputs the probability that the input is real. Both the networks are trained using separate loss functions: the generator aims to minimize the discrimator's ability to distinguish between real/fake data, while the discriminator aims to maximize its classification accuracy. The adversarial process can be understood as a minimax game (kinda like [[Alpha-Beta Pruning]] Where the generator and discriminator optimize opposing objectives. Over time, this adversarial process enables the generator to produce data that becomes indistinguishable from the real examples, at least to the discriminator. 
 
 I don't really understand this but the overall objective of a GAN can be expressed as a mini-max game:
+
 $$\min_G \max_D V(D, G) = \mathbb{E}_{x \sim p_\text{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)} [\log (1 - D(G(z)))]$$
 where:
 - $D(x)$ represents the probability assigned by the discriminator that $x$ is real

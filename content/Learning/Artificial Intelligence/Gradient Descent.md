@@ -8,7 +8,7 @@ A gradient measures the change in all the weights compared to the change in erro
 In the below image, *w* and *b* refer to the weights and biases of the function, and $J(w,b)$ refers to the output of the loss function with those weights and biases as inputs. The gradient descent algorithm seeks to minimize the loss function, essentially finding the lowest point in the convex gradient.
 
 ![[Pasted image 20240704135654.png]]
-
+![[Pasted image 20250128133235.png]]
 ### Learning Rate
 The gradient descent algorithm essentially makes steps into the direction of the local minimum, which is represented by the gradient output of the loss function. The size of these steps is determined by the learning rate [[Hyperparameters|hyperparameter]], which decides how fast or slow the algorithm will move towards the optimal weights.
 
