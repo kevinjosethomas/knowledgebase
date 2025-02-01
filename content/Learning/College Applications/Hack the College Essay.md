@@ -1,6 +1,7 @@
 ---
 date: '2024-11-07'
 ---
+[eBook](https://www.hackthecollegeessay.com/uploads/1/0/9/5/109505679/hack_the_college_essay_2017.pdf)
 ### Chapter 1 – Write the Essay No One Else Could Write
 - If someone reading your essay gets the feeling some other applicant could have written it, then you're in trouble
 - AOs have limited time and most applications are stuff that looks the same

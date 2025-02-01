@@ -3,6 +3,8 @@ date: '2024-07-09'
 ---
 [Spotify](https://open.spotify.com/episode/6f99vibOrc4XUUFu792GsG?si=cfb0cdfec6f64acf)
 
+This is a continuation of [[Essays, What Works – Inside the Yale Admissions Office]]. Read [[Hack the College Essay]] for tips on how to approach your application, essays, and your personal voice amidst the battle of college applications.
+
 - Many individual choices can be made well
 	- Tells AOs what the student can add to the community, and gives a clear idea of who the person is
 - Otherwise,

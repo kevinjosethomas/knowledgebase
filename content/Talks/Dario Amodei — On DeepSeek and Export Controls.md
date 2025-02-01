@@ -3,7 +3,7 @@ date: 2025-01-31
 ---
 [Article](https://darioamodei.com/on-deepseek-and-export-controls)
 
-- This was an interesting article and gave me a new perspective from a source I believe to be reliable. Regardless, it is important to note that Dario Amodei is the founder of Anthrophic, a company in direct competition with DeepSeek.
+- This was an interesting article and gave me a new perspective from a source I believe to be reliable. Regardless, it is important to note that Dario Amodei is the founder of Anthropic, a company in direct competition with DeepSeek.
 
 > "Export controls serve a vital purpose: keeping democratic nations at the forefront of AI development."
 ### Three Dynamics of AI Development
