@@ -1,6 +1,8 @@
 ---
 date: '2024-11-07'
 ---
+[Article](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
 1. **Never put your family, friends, or significant other low on your priority list.**
 2. Life is not a dress rehearsal—this is probably it. Make it count.
 3. How to succeed: pick the right thing to do (this is critical and usually ignored), focus, believe in yourself (especially when others tell you it's not going to work).
