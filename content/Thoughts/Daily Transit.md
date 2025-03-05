@@ -1,6 +1,6 @@
 ---
-title: "Daily Transit"
-date: "2024-09-01"
+title: Daily Transit
+date: 2024-09-01
 ---
 I cross the Fraser River every single day. When we moved to Surrey, I wanted to continue going to my school in Burnaby, but I wasn't very happy about the resulting need to transit 40 minutes twice a day. It’s still not the most enjoyable way to spend every morning, but my transit is something I’m now strangely fond of.
 
