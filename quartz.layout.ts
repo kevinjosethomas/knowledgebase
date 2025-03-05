@@ -12,8 +12,8 @@ export const sharedPageComponents: SharedLayout = {
       options: {
         repo: "kevinjosethomas/knowledgebase",
         repoId: "R_kgDOMRuqCg",
-        category: "General",
-        categoryId: "DIC_kwDOMRuqCs4CnlDl",
+        category: "Announcements",
+        categoryId: "DIC_kwDOMRuqCs4CnlDk",
       },
     }),
   ],
