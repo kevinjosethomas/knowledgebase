@@ -6,7 +6,17 @@ import { FileNode } from "./quartz/components/ExplorerNode"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "kevinjosethomas/knowledgebase",
+        repoId: "R_kgDOMRuqCg",
+        category: "General",
+        categoryId: "DIC_kwDOMRuqCs4CnlDl",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Website: "https://kevinjosethomas.com/",
