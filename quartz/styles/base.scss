@@ -599,3 +599,7 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+.page-content {
+  font-weight: $lightWeight;
+}
