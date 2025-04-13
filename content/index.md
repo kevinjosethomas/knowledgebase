@@ -10,7 +10,6 @@ This repository is a collection of my notes, thoughts, and learnings across a va
 
 - [Learning](https://knowledge.kevinjosethomas.com/Learning/) - Collection of notes across school, college, and other learning experiences
 - [Papers](https://knowledge.kevinjosethomas.com/Papers/) - Summaries and annotations from various fascinating academic papers
-- [People](https://knowledge.kevinjosethomas.com/People/) - Ideas from amazing inspiring people I've had the fortunate opportunity to meet
 - [Talks](https://knowledge.kevinjosethomas.com/Talks/) - Talks, podcasts, presentations, and other amazing sources of information
 - [Thoughts](https://knowledge.kevinjosethomas.com/Thoughts/) - My blog posts, thoughts, and opinions on various intriguing topics
 

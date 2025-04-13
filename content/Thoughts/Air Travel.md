@@ -1,7 +1,6 @@
 ---
 date: 2025-02-28
 ---
-
 It’s the 28th of February and I’m on a flight from Vancouver to Texas (Houston and then Austin) to organize Hack Club Scrapyard. I have the window seat :) I’ve been fortunate to be in this position dozens of times—airpods in, flying thousands of miles across land and water—but it always hits just as hard as the first, especially when I’m all alone.
 
 Air travel always reminds me of how absolutely insane human innovation and ingenuity is, but also how much more there is to achieve if we keep accelerating at the pace we are. Right this second, I can look around me and attempt to comprehend the current unfathomable reality: I’m in an enclosed pressurized aluminum tube flying a few hundred miles above the surface of the Earth, travelling at a velocity fast enough to get me across the continental United States in barely a few hours. I can look below me: cars, ships, highways, skyscrapers, bridges, factories, oil rigs, and the dozens of cities scattered across our path—each home to millions of different people, animals, children, families, and students. Each person is currently living their very own complicated eventful life. I can look above me: the vast blue-gray sky, undoubtedly dotted with other planes, satellites, spacecrafts, stars, planets, and more. It’s absolutely surreal.
