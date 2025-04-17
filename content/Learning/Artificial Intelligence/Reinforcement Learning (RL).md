@@ -50,3 +50,45 @@ An important requirement in RL is to be able to assign a value to a state (or a 
 2. **On-Policy Action-Value Function** which gives the expected return if you start in state $s$, take an arbitrary action $a$ (which may have not come from the policy), and then forever act according to policy $\pi$
 3. **Optimal Value Function** which gives the expected return if you start in state $s$ and always act according to the optimal policy in the environment
 4. **Optimal Action-Value Function** which gives the expected return if you start in state $s$, take an arbitrary action $a$, and then forever act according to the optimal policy in the environment
+
+---
+
+Reinforcement Learning is often represented mathematically via the [[Markov Decision-Making Process]] where:
+- $S$ is the set of all valid states
+- $A$ is the set of all valid actions
+- $R: S \times A \times S \rightarrow \mathbb{R}$ is the reward function, with $r_t = R(s_t, a_t, s_{t+1})$
+- $P : S \times. A \rightarrow \mathcal{P}({S})$ is the transition probability function, with $P(s' \mid s, a)$ being the probability of transitioning into state $s'$ if you start in state $s$ and take action $a$
+- and $\rho_0$ is the starting state distribution
+
+---
+
+Below is a non-exhaustive diagram representing the taxonomy of algorithms in modern reinforcement learning:
+![[Pasted image 20250417162028.png]]
+
+#### Model-Free vs Model-Based Learning
+The primary branching points of RL algorithms (model-free vs. model-based) is whether agents have access to a model of the environment. Essentially, whether the agent can utilize a function that predicts state transitions and rewards.
+
+The primary benefit to model-based RL is that the agent is able to plan by thinking ahead and looking across a range of possible choices; and these results can then learning from planning ahead into a functioning policy. [[AlphaZero]] is a famous example of this.
+
+The primary downside is that a ground-truth model of the environment is usually not available to the agent. In this case, if we attempt to use model-based RL, the agent has to discover the environment purely through its own experience—and any error (bias) in this environment can be exploited by the agent. This results in agents that perform well with respect to the learned model, but behave sub-optimally in the real environmentally. From my understanding right now, this seems to be the exact sim2real issue I saw us facing when I just visited K-Scale. Robots are able to walk in simulation (kinda a learned model)—but the same policy doesn't translate to real life because of so many unexpected variations. "Model-learning is fundamentally hard, so even intense effort—being willing to throw lots of time and compute at it—can fail to pay off."
+
+### What to Learn
+Another branching point is what to learn:
+- Policies (stochastic/deterministic)
+- Action-value functions (Q-functions)
+- Value functions
+- Environment Models
+
+When dealing with model-free reinforcement learning, there are two main approaches to training:
+1. **Policy Optimization**
+	- These algorithms typically represent a policy function very explicitly; and use gradient ascent ([[Gradient Descent]] but for maximums instead!) to maximize a score function
+	- Usually done *on-policy*, which means it uses data from its most recent behaviour—rather than older data
+	- It often uses a helper value function which estimates how good each state is, and correspondingly guides policy updates
+	- Popular policy optimization methods are [[A2C / A3C]] which performs gradient ascent to directly maximize performance, and [[PPO]] which optimizes indirectly via a safer function that doesn't change policy too wildly
+2. **Q-Learning**
+	- These algorithms attempt to learn a function $Q_\theta(s,a))$ which attempts to approximate the optimal action-value function $Q^*(s,a)$. As we saw in earlier value functions, the $Q(s,a)$ function aims to predict the expected future reward if you start in state $s$, take action $a$, and act optimally after that
+	- These methods are built on the Bellman equation which essentially states that the value of a state-action pair is the reward you receive now plus the best future value you can get later
+	- Q-Learning is often done *off-policy*, which means it can learn from any data—even if it was collected by a different policy. It balances exploration (trying new things) and exploitation (using the best-known move)
+	- The most popular examples of Q-Learning methods are [[DQN]]s and C51
+
+The benefit of policy optimization methods is that you directly optimize for what you want, which makes them stable and reliable. In contrast, Q-learning methods indirectly optimize for agent performance by training $Q_\theta$ to satisfy a self-consistency equation, which tends to be less stable. At the same time, they are more efficient when they do work, and they can reuse data more effectively. Since policy optimization and Q-learning are not mutually exclusive, there are some algorithms that trade-off between the strengths and weaknesses of both, including [[DDPG]] which concurrently learns deterministic policy and a Q-function by using both to improve each other]]
