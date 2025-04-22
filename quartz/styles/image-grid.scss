@@ -1,0 +1,72 @@
+/* Image Grid styling for Quartz
+   Based on the Obsidian Media Grid snippet */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+  grid-gap: 7px;
+  margin: 20px 0;
+
+  img, video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  br {
+    display: none;
+  }
+
+  &.grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  &.grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  &.grid-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.markdown-rendered p:has(img + img) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+  grid-gap: 7px;
+  margin: 20px 0;
+
+  img, video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  br {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .image-grid {
+    &.grid-3, &.grid-4 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+    
+    &.grid-2, &.grid-3, &.grid-4 {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  .markdown-rendered p:has(img + img) {
+    grid-template-columns: 1fr;
+  }
+} 
