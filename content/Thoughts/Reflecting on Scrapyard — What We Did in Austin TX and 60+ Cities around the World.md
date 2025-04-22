@@ -1,7 +1,6 @@
 ---
-date: 2025-03-17
+date: 2025-04-10
 ---
-
 Links:
 - [YouTube Documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA)
 - [Scrapyard Flagship Expenses](https://hcb.hackclub.com/scrapyard) (currently private)
@@ -32,7 +31,6 @@ And well, so we did. Two weeks later, on March 15th, our team at the British Col
 
 ![[Flagship.png]] ![[Vancouver.jpg]]
 
-
  Thank you to Hack Club and the entire Scrapyard organizing team for such an insane opportunity :) From moving the entire flagship event from Los Angeles to Austin (Palisades fire 😔) to helping so many organizers run their own events, organizing Scrapyard was truly a feat. Honestly, Ruby deserves a special shoutout for carrying so much—from merchandise to logistics to organization to customer support; and also for holding us all accountable. 
  
  Thank you to our amazing team at the British Columbia Youth Developer Collective for pulling through with Scrapyard Vancouver—especially Vuk, I can't wait to see how you grow BCYDC next year :) Vancouver held one of the largest Scrapyard satellite events that weekend—and through our work at BCYDC, our hackathons are now almost on-par with THE cities... New York, San Francisco, Toronto, and so on!
@@ -41,8 +39,10 @@ Thank you to the amazing students who attended Scrapyard Flagship, Scrapyard Van
 
 ---
 
-I'm turning 18 in exactly 20 days and it's quite a strange thing to even consider. I've spent the last decade trying to grow up and be an adult; always working my hardest to do things outside of my capabilities and be seen as more than just a child. But now, as I get closer and closer to 18, it is a strangely frightening prospect—but also an opportunity to spend some time and *write*.
+I'm turning 18 in exactly 20 days and it's quite a strange thing to even consider. I've spent the last decade trying to grow up and be an adult; always working my hardest to do things outside of my capabilities and be seen as more than just a child. But now, as I get closer and closer to 18, it is a strangely frightening prospect—so I thought I'd take it as an opportunity to spend some time and write.
 
-So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at K-Scale. I think things have worked out pretty well so far... I can't wait to see where it goes. Thank you Hack Club, thank you Canada, and thank you for my family :)
+So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at K-Scale. I think things have worked out pretty well so far. I can't wait to see where it goes.
+
+Thank you Hack Club, thank you Canada, and thank you to all my amazing friends and family :)
 
 ![[Pasted image 20250411022035.png]]
