@@ -1,5 +1,5 @@
 ---
-date: '2024-07-03'
+date: '2025-04-17'
 ---
 Among [[Supervised Learning]] and [[Unsupervised Learning]], Reinforcement Learning is one of the primary neural network learning paradigm, focused on the process of training models in simulation—essentially, rewarding and penalizing an agent in a simulated world to create synthetic data. RL is primarily used in dynamic environments without predefined inputs and outputs. For example, we would use RL to train a model to beat the Snake game by rewarding it for eating apples and penalizing it for running into walls.
 
