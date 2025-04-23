@@ -47,6 +47,8 @@ At that exact same moment, over 60 Scrapyard satellite hackathons took place aro
 
 Thank you to the amazing students who attended Scrapyard Flagship: Tongyu, Kai Ling, Vivian, Aslesh, Meghana, Jonathan, Selena, Arnav, and the dozens of other super cool people I got to learn from. And thank you to everyone who attended Scrapyard Vancouver... I can't wait to see everyone continue cooking up the craziest stuff over the next few years—and of course, the next few decades.
 
+> If you're still interesting in reading, I did also write [[Air Travel]] on my flight to Scrapyard :)
+
 ![[Pasted image 20250422114622.png]] ![[Pasted image 20250422114634.png]] ![[Pasted image 20250422114653.png]]
 
 #### *Afterword*

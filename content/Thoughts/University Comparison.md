@@ -2,6 +2,7 @@
 date: 2025-03-12
 ---
 > **Future Decisions Update:**
+> 
 > *Accepted:* UWaterloo Computer Science, UWaterloo Software Engineering, UToronto 
 > Computer Science, UBC Science ($72,000 Djavad Mowafaghian Presidential Scholar)
 > 
