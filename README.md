@@ -9,5 +9,6 @@ This repository is hope to a collection of my notes, thoughts, and learnings acr
 - [People](https://knowledge.kevinjosethomas.com/People/) - Ideas from amazing inspiring people I've had the fortunate opportunity to meet
 - [Talks](https://knowledge.kevinjosethomas.com/Talks/) - Talks, podcasts, presentations, and other amazing sources of information
 - [Thoughts](https://knowledge.kevinjosethomas.com/Thoughts/) - My blog posts, thoughts, and opinions on various topics
+- [Artificial Intelligence](https://knowledge.kevinjosethomas.com/Artificial-Intelligence/) - Documentation for machine learning and mathematical concepts in artificial intelligence
 
 If you're interested in any of the concepts in this repository, or if you have anything you think I should read or learn about, I would love to talk!
