@@ -2,7 +2,7 @@
 date: 2025-04-23
 ---
 
-One month ago, our organizing team of 13 high school students from around Canada and the United States got together in Austin, Texas. Joining us that weekend were 70 other local high schoolers from Texas, as well as around 30 other students from all around the world—Switzerland, Singapore, Romania, New Zealand, and many other beautiful cities.
+One month ago, our organizing team of 13 high school students from around Canada and the United States got together in Austin, Texas. Joining us that weekend were 70 other local high schoolers from Texas, as well as around 30 other students from all around the world—Switzerland, Singapore, Romania, New Zealand, and many other beautiful countries.
 
 For the four months prior, we had been working towards organizing Scrapyard—a global high school hackathon happening in Austin, with over 60 satellite hackathons happening in cities around the world. It was real. [Scrapyard](https://scrapyard.hackclub.com/) was happening.
 
@@ -17,7 +17,7 @@ Amongst the jam-packed ~65 hours we got to spend together (of which we unfortuna
 
 For the past year, Hack Club has given me immeasurable opportunity—through its online community of over 50,000 teenagers, through its constant pursuit of spreading creativity and bringing people together, and of course, through its in-person events in [[Short Talk with Tom Preston-Werner|San Francisco]] and across Canada. From meeting the most inspiring students and friends to exploring the cities I've always dreamt of visiting, Hack Club has totally changed my life—both in the huge noticeable shifts in who I'm surrounded by and the opportunities I've been given access to, but also in the tiny changes in my outlook on things and how I approach the world.
 
-Today, it is unfathomable to even consider that Scrapyard will have the same chain reactions that other Hack Club events have had: dozens of people will find the best of friends just like I was fortunate to, many young students will get into coding and art and amazing hobbies they've been scared to get into, and two weeks after Scrapyard Flagship, many of our attendees will go on to run their own local Scrapyard events—each with their own little chain reactions that make this world a slightly better place.
+Today, it's unimaginable to even comprehend that Scrapyard will have the same chain reactions that other Hack Club events have had: dozens of people will find the best of friends just like I was fortunate to, many young students will get into coding and art and amazing hobbies they've been scared to get into, and two weeks after Scrapyard Flagship, many of our attendees will go on to run their own local Scrapyard events—each with their own little chain reactions that make this world a slightly better place.
 
 ![[Pasted image 20250421142320.png]] ![[Pasted image 20250421141213.png]] ![[image2x1.png]]
 
@@ -45,7 +45,7 @@ At that exact same moment, over 60 Scrapyard satellite hackathons took place aro
  
  Thank you to our amazing team at the British Columbia Youth Developer Collective for pulling through with Scrapyard Vancouver—especially Vuk, I can't wait to see how you grow BCYDC next year :)
 
-Thank you to the amazing students who attended Scrapyard Flagship: Tongyu, Kai Ling, Vivian, Aslesh, Meghana, Jonathan, Selena, Arnav, and the dozens of other super cool people I got to learn from. And thank you to everyone who attended Scrapyard Vancouver... I can't wait to see everyone continue cooking up the craziest stuff over the next few years—and of course, the next few decades.
+Thank you to the amazing students who attended Scrapyard Flagship: Niko, Tongyu, Kai Ling, Vivian, Aslesh, Meghana, Jonathan, Selena, Arnav, and the dozens of other super cool people I got to learn from. And thank you to everyone who attended Scrapyard Vancouver... I can't wait to see everyone continue cooking up the craziest stuff over the next few years—and of course, the next few decades.
 
 > If you're still interested in reading, I also wrote [[Air Travel]] on my flight to Scrapyard :)
 

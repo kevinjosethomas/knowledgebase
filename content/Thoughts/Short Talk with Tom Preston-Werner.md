@@ -9,7 +9,7 @@ date: 2024-02-11
 	- AI will probably not die for at least a long while; until then, it is still a very good field to research and develop with a lot of opportunity
 	- Cybersecurity and ethics, ie. controlling and defending AI, (content filters/spam) will also be big
 	- Entrepreneurship as well; in the future, possibly in the near future, programmers will be doing less programming and more managing code and product design; Tom thinks that while AI can write code, it will be a long time until an AI can understand the nuance of human folly enough to build a well thought out and well designed product
-- AGI/AGI Regulation
+- AI/AGI Regulation
 	- Consciousness is a spectrum; we wonʼt know what AGI looks like when we get it
 	- There's a spectrum of consciousness; think single-celled organism → worm → Human; it canʼt be binary or else there's a line to draw on what is conscious or not
 	- Rather, when AI gets to, say, a dog, maybe people will have more worries about ‘killingʼ AI
