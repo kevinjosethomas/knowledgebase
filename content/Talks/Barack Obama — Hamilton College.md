@@ -37,7 +37,8 @@ date: 2025-04-21
 - When difference feels threatening—when the other side no longer seems like fellow citizens—democratic compromise becomes rare, and extremism easier to justify
 - As for what's happening today (April 2025):
 	- The authoritarian impulse shows up subtly—through intimidation of universities, threats against law firms, and the quiet suppression of dissent
-	- “Imagine if I had pulled Fox News’s credentials from the press room…” Overreach, which was once unthinkable, is now too often tolerated
+	- “Imagine if I had pulled Fox News’s credentials from the press room…”
+	- Overreach, which was once unthinkable, is now too often tolerated
 	- Authoritarianism rarely announces itself. It creeps in through normalization—of shortcuts, excuses, and the erosion of shared standards
 - Democracy depends on restraint—on people choosing not to abuse power, even when they could
 	- America’s strength came not from natural advantages, but from trust in fair rules. “You didn’t have to pay bribes or hire someone’s cousin to get a permit—that’s how we built the economy.”
