@@ -11,7 +11,7 @@ I remember quite distinctly, back in 2019 when I was first moving from Bangalore
 
 Amongst the jam-packed ~65 hours we got to spend together (of which we unfortunately only spent about 7 hours sleeping), we worked to create a truly beautiful space—close friends with a shared passion for continually learning and building, talented teenagers with a knack for trying new things out, and a true community of driven kids just doing the coolest thing ever. Endless energy drinks, crazy cowboy hats, midnight karaoke—we got to see dozens of teenagers come together from all around the world, all sharing their own stories: through code, through lightning talks, and through the thousands of conversations and friendships formed during that single weekend.
 
-> I would struggle to truly explain even a fraction of the activities and projects and events that happened during the hackathon—but thankfully [Paolo's documentary]((https://www.youtube.com/watch?v=8iM1W8kXrQA)) does a pretty good job at capturing the vibe of the event.
+> I would struggle to truly explain even a fraction of the activities and projects and events that happened during the hackathon—but thankfully [Paolo's documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA)) does a pretty good job at capturing the vibe of the event.
 
 ![[Pasted image 20250422114438.png]] ![[Pasted image 20250422114458.png]]![[Pasted image 20250422114507.png]]
 
