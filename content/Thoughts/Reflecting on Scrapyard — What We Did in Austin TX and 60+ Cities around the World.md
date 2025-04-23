@@ -7,10 +7,7 @@ One month ago, our organizing team of 13 high school students from around Canada
 For the four months prior, we had been working towards organizing Scrapyard—a global high school hackathon happening in Austin, with over 60 satellite hackathons happening in cities around the world. It was real. [Scrapyard](https://scrapyard.hackclub.com/) was happening.
 
 I remember quite distinctly, back in 2019 when I was first moving from Bangalore to Canada, I had dreamt of exactly this: coding clubs in middle and high school, friends with the same passion as mine, monthly hackathons with talented students, and a community of driven kids just doing the coolest stuff ever. Unfortunately, middle school in Toronto disappointed: no coding classes, no programming clubs, and no events and opportunities for me either. High school in Vancouver was marginally better: we had AP Computer Science classes and I got to start our first programming club... but it was only a handful of students who really enjoyed the sport. I had spent the last year building the [British Columbia Youth Developer Collective](https://bcydc.ca/) and working towards creating that dream in British Columbia—but still, Scrapyard was going to be different.
-
----
-
-###### *Scrapyard Flagship — March 1st - March 2nd*
+#### *Scrapyard Flagship — March 1st - March 2nd*
 
 Amongst the jam-packed ~65 hours we got to spend together (of which we unfortunately only spent about 7 hours sleeping), we worked to create a truly beautiful space—close friends with a shared passion for continually learning and building, talented teenagers with a knack for trying new things out, and a true community of driven kids just doing the coolest thing ever. Endless energy drinks, crazy cowboy hats, midnight karaoke—we got to see dozens of teenagers come together from all around the world, all sharing their own stories: through code, through lightning talks, and through the thousands of conversations and friendships formed during that single weekend.
 
@@ -32,8 +29,7 @@ Paraphrasing a message I wrote to Ruby when I returned to Vancouver after Scrapy
 > 
 > We did this over the weekend, we’re going to help others do it two weeks from now, and for weeks and months and even years from today, this is going to reverberate and continue to have a huge positive impact all around the world.
 
-
-###### *Scrapyard Satellite — March 15th*
+#### *Scrapyard Satellite — March 15th*
 
 And well, so we did. Two weeks later, on March 15th, our team at the British Columbia Youth Developer Collective hosted Scrapyard Vancouver—bringing together 85 students from all around the province to build stupid scrappy projects, and also breaking our previous record of British Columbia's biggest youth hackathon. In fact, Scrapyard Vancouver was one of the largest Scrapyard satellites in the world that weekend—beating some of the biggest cities in the world. And through all the work we put into BCYDC over the past year, our hackathons are now on par with *the* cities: New York, San Francisco, Toronto, and so on.
 
@@ -53,9 +49,7 @@ Thank you to the amazing students who attended Scrapyard Flagship: Tongyu, Kai L
 
 ![[Pasted image 20250422114622.png]] ![[Pasted image 20250422114634.png]] ![[Pasted image 20250422114653.png]]
 
----
-
-###### *Afterword*
+#### *Afterword*
 
 I'm turning 18 in exactly 7 days and its quite a strange thing to even consider. I've spent the last decade trying to grow up and be an adult; always working my hardest to do things outside of my capabilities and be seen as more than just a child. But now, as I get closer and closer to 18, it is a strangely frightening prospect—so I thought I'd take it as an opportunity to spend some time and write.
 
