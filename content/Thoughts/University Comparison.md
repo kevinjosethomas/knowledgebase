@@ -1,6 +1,14 @@
 ---
 date: 2025-03-12
 ---
+> **Future Decisions Update:**
+> *Accepted:* UWaterloo Computer Science, UWaterloo Software Engineering, UToronto 
+> Computer Science, UBC Science ($72,000 Djavad Mowafaghian Presidential Scholar)
+> 
+> *Waitlisted:* UC Berkeley Computer Science
+> 
+> *Rejected:* Stanford REA, Princeton, Harvard, Carnegie Mellon
+
 Below is a ChatGPT Deep Research prompt and response I made on March 12th 2025. At this time, I was extremely fortunate to have just received the Djavad Mowafaghian Presidential Scholar Award from the University of British Columbia—a \$72,000 full-ride scholarship to attend the school. Unfortunately, the deadline to accept the scholarship was on March 28th—a few hours after I heard back from most schools in the United States and most likely a few months before I heard back from the University of Waterloo, which was the only other school which would make more financial sense. As a result, I figured it would make sense to weigh all my choices so I could make an immediate determination in a few hours if I needed to. All data from this prompt was condensed into the following sheet:
 
 ![[Pasted image 20250413020954.png]]
