@@ -33,7 +33,7 @@ Paraphrasing a message I wrote to Ruby when I returned to Vancouver after Scrapy
 
 And well, so we did. Two weeks later, on March 15th, our team at the British Columbia Youth Developer Collective hosted Scrapyard Vancouver—bringing together 85 students from all around the province to build stupid scrappy projects, and also breaking our previous record of British Columbia's biggest youth hackathon. In fact, Scrapyard Vancouver was one of the largest Scrapyard satellites in the world that weekend—beating some of the biggest cities in the world. And through all the work we put into BCYDC over the past year, our hackathons are now on par with *the* cities: New York, San Francisco, Toronto, and so on.
 
-At that exact same moment, over 60 Scrapyard satellite hackathons took place around the world, each bringing together dozens of local students to create something new. On one weekend, across a span of just 48 hours, over 3000 students globally came together: to make a cool project, to meet new friends, and to try something entirely new. 
+At that exact same moment, over 60 Scrapyard satellite hackathons took place around the world, each bringing together dozens of local students to create something new. On one weekend, across a span of just 48 hours, over 4500 students globally came together: to make a cool project, to meet new friends, and to try something entirely new. 
 
 > Special shoutout to Capital Region NY 🇺🇸, Lisbon 🇵🇹, Bengaluru 🇮🇳, Srinagar 🇮🇳, Sharjah 🇦🇪, Victoria 🇨🇦, and all the other events I had the specific privilege of serving.
 
