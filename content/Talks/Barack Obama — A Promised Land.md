@@ -1,0 +1,50 @@
+---
+date: 2025-04-26
+---
+### Chapter 1
+- Favourite place in the White House was the West Colonnade—his daily walk from home to office, and also a daily transition into the weight of his responsibility
+	- Served as an essential moment of personal preparation before stepping into governance (this really is just the simple moments of peace and quiet that give you the time you need to process everything that is happening in your life, which ironically has been my [[Daily Transit]] for the last three years)
+	- Conscious of the history and the gravity of the office—and a daily ritual that reinforced the seriousness of his role
+		- This theme resonates throughout the novel, especially as I watched back many of the speeches and stories he brings out in the memoir. Just the history and the stories of the people who have walked these halls before—and the billions of lives it has impacted
+	- The colonnade's architecture itself symbolized endurance and tradition: study, plain, and dignified
+	- Obama's work ethic was also modelled by the groundskeepers—who framed their labour as a sacred duty. The discipline of ordinary people became Obama's measure of how he should lead—feeling obligated to match their quiet dilligence in his own work
+- Family background was largely quiet regarding politics but very morally sharp
+	- Grandparents were common-sense midwesterners, politically moderate, yet practical rather than ideological
+	- His mother was deeply moral, critical of injustice, but also very skeptical of political systems—prioritizing personal responsibility over direct engagement via formal activism
+		- *What kind of person do you want to be?* — a moral lesson that shaped Obama's political philosophy
+		- Personal conduct must serve as political action; the world's complexity demanded constant ethical choices, not slogans
+- Early exposure to inequality and corruption (Indonesia), American race and class (Hawaii and mainland U.S.) seeded an early awareness of systemic injustice
+	- Racial ambiguity and his mixed race created an internal sense of "from everywhere and nowhere" (similar to Trevor Noah, as we read in Born a Crime) — Obama recognized the need to build his own sense of belonging
+	- Books became his way to find frameworks for understanding the fractured world—and his early intellectual vitality was driven more by personal identity than academic ambition
+	- His political awakening came from social movements—suffragists, Gandhi, MLK, civil rights heroes
+		- Largely emphasized by bottom-up change: ordinary people acting together to change systems, rather than leaders bestowing change from above
+		- Deep skepticism over electoral politics—especially as politicians were seen as hollow actors and real power seemed to lie outside the system
+- When transferring from Occidental college to Columbia, he shifted from studying activism to solitary reflection
+	- Self-imposed monasticism in New York, wrestling with self-doubt, realizations, and understanding compromise in change
+	- Rejected naive patriotism but also rejected blanket condemnation of America
+	- Held on to the *idea* of America—not the sanitized version, but the aspirations enshrined within the founding documents. Saw America as an unfinished project; a promise, not yet a reality
+- Graduation, began community organizing in Chicago and learned that:
+	- Movements needed structure and follow-through, not just passion
+	- Ordinary people, when empowered, gained dignity and self-respect
+	- Real change required not just "resistance", but also building lasting institutions
+	- Personal growth through dealing with failure, rejection, and setbacks; resilience is as important as idealism
+- Realized that community organizing could only do so much without political power
+	- Systemic issues (school funding, job loss) were beyond the reach of political power
+	- Saw the allure and necessity of engaging with formal politics—seeing power as a tool to serve community interests
+- Learned from the Harold Washington campaign in Chicago:
+	- Proof that grassroots organizing could achieve political power (Bernie & AOC today!)
+	- Charisma and energy are important but requires governance skills and multi-racial coalitions to make durable change
+	- Saw the dangers of racially-exclusive politics: backlash, fragmentation, and unsustainability
+- Recognized personal ambition stirring:
+	- Electoral politics was a possible and necessary path
+	- Could bring grassroots energy into governance; believed in participatory democracy where people learned to trust not just leaders, but also each other
+- Law school at Harvard:
+	- Gave him technical skills and broader professional credibility
+	- Exposure to intellectual debates on law, governance, and social change
+	- Found joy in argument and engagement, especially with conservatives—believed in taking opponents seriously rather than dismissing them
+	- Success at Harvard (first Black president of Law Review) brought fame and opportunities:
+		- But he was suspicious of the ease of his rise; feared being co-opted into a safe conventional life
+		- Skeptical of smooth career paths—viewing them as traps that might dull larger ambitions
+- Poised between two futures:
+	- Elite professional success, or...
+	- An un-defined pursuit of meaningful transformative public service
