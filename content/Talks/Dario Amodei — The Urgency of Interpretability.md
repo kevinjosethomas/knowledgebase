@@ -8,7 +8,7 @@ date: 2025-04-25
 - Interpretability—the ability to understand AI’s internal workings—is emerging as a crucial area, offering a rare chance to meaningfully guide AI before it becomes overwhelmingly powerful
 	- Today’s generative AI models are black boxes; we have little real understanding of why they behave the way they do
 	- Without interpretability, we risk being blindsided by misalignment, deception, power-seeking behaviours, and misuse in critical domains like biosecurity or finance
-- Recent breakthroughs in mechanistic interpretability suggest it’s now plausible to build something like an “MRI for AI” before transformative AI systems arrive—but we’re in a race against time
+- Recent breakthroughs in [[Mechanistic Interpretability|mechanistic interpretability]] suggest that it’s now plausible to build something like an “MRI for AI” before transformative AI systems arrive—but we’re in a race against time
 - "Powerful AI will shape humanity’s destiny, and we deserve to understand our own creations _before_ they radically transform our economy, our lives, and our future."
 ### The Dangers of Ignorance
 - Traditional software is very explicitly programmed, where someone has developed it so it does exactly as instructed. AI models, however, operate through emergent, unpredictable structured

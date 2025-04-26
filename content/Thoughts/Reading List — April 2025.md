@@ -7,3 +7,7 @@ date: 2025-05-30
 - [[Barack Obama — Hamilton College|A Conversation with President Barack Obama, Hamilton College]]
 	- Communication, storytelling, leadership, democracy, civic norms, political polarization, social division, technology, AI and the future of work, misinformation, media, and information literacy
 	- Ties into [[Short Talk with Tom Preston-Werner]] from last year!
+- [[Dario Amodei — The Urgency of Interpretability|The Urgency of Interpretability, Dario Amodei]]
+	- Interpretability, alignment, model transparency, racing against AI capabilities
+	- The race to solve interpretability before AI intelligence levels leap ahead
+	- Relates to [[Mechanistic Interpretability]] and [[Arthur Conmy — Hack Club AMA]]
