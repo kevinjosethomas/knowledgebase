@@ -1,0 +1,238 @@
+---
+date: 2025-06-09
+---
+- The central divide between left and right today isn’t just ideology, but also their grasp of what drives politics    
+    - Democrats still think money is the central resource of political power; Republicans understand it’s attention
+        - Attention isn’t just visibility; it’s agenda-setting. You only dominate the political conversation by being unignorable—even if that means being polarizing
+        - Negative attention, conflict, controversy—these are assets in the new economy of politics
+- Liberals often fail because they don’t know how to make government work effectively—even when they have power
+    - A "Department of Government Efficiency" might sound like a gimmick, but the idea speaks to something essential: too often, government can't even achieve the outcomes it’s tasked with—like building housing or rail
+    - Deregulation isn’t just for markets—it’s for government itself; rules and red tape can choke the very reforms progressives support
+- The Democratic Party is leaderless and confused—a coalition without coherence or direction
+    - Donald Trump remade the GOP by directly challenging the old guard—attacking Romney, Bush, trade deals, and sacred cows alike
+    - No one on the left is doing that; no one is willing to publicly say “we were wrong,” or to chart a radically new course
+- Leadership is more than policy. It is about clarity
+    - Leaders like Elon Musk provide a “mind meld” for their organizations—everyone knows the mission
+    - In contrast, current political movements often feel like destruction for its own sake; not creative destruction, but nihilism
+
+### Left-wing vs right-wing politics
+- The left starts from a core premise: life is unfair, and government must act to mitigate—not erase—that unfairness
+    - Talent, wealth, health, citizenship—none of it is distributed equally
+    - The goal isn’t equality of outcome, but dignity for all; a society where flourishing is broadly possible
+- Unchecked capitalism doesn’t distinguish between building solar panels or coal plants—it rewards both if they’re profitable
+    - That’s why the left is more concerned with regulating markets, correcting for power imbalances, and securing a fair baseline (e.g. minimum wage, worker protections)
+    - Capitalism, in practice, is always shaped by rules; the fight is over who sets them and to whose benefit
+- Power imbalances are baked into the labor market; some people negotiate with leverage, others with desperation
+    - Minimum wage isn’t just about income but about counterbalancing structural weakness in bargaining power
+    - Left politics is deeply about addressing asymmetries: not just in money, but in opportunity, access, and voice
+- One way to frame the difference:
+    - Liberals fear injustice; conservatives fear cultural decline or social unraveling
+    - Liberals value progress and institutional reform; conservatives value continuity and stability
+    - Liberals tolerate risk and overreach if it pushes things forward; conservatives tolerate inequality if it preserves order
+- The “small government vs big government” story is a myth
+    - The right loves big government when it comes to military, surveillance, or border control
+    - The left prefers big government for healthcare, housing, education—but both rely on expansive state power
+    - Conservatives trusted government enough to believe it could remake Iraq into a democracy; that’s not small-government thinking
+- Political rhetoric often doesn’t match political reality
+    - Reagan is hailed as a shrink-the-state president. But under him, government expanded massively
+    - Everyone talks about cutting government; almost no one actually does it—because cutting always hurts someone, and that someone always pushes back
+
+### Political leaders on the left and the right
+- The political left lacks transformative leadership... not just in charisma, but in challenging internal orthodoxy
+    - No equivalent of Trump has emerged on the left: someone who reshaped the party by directly attacking its elite consensus
+    - Obama was the last unifying figure, but even he governed more cautiously than he campaigned
+- Political change requires confrontation—someone has to say: "we were wrong, this didn’t work, it’s time to rebuild"
+    - That courage is absent; most Democrats prefer technocracy to transformation
+- Trump’s genius wasn’t just media, but also his willingness to destroy old Republican dogma
+    - He broke with free trade, military adventurism, and budget hawkery—and didn’t pay a political price
+    - His brand of nationalism rejected the party's Bush-era baggage and redefined what it meant to be conservative
+- On the left, Bernie Sanders tried to do something similar, but didn’t succeed
+    - Medicare-for-All became a rallying cry, but the coalition never grew large or durable enough
+    - Bernie’s campaign was more ideological than institutional. Less a takeover and more a protest
+- In contrast, Biden represents continuity rather than disruption
+    - His presidency is a restoration, not a redefinition; stabilizing the ship, not changing its course
+
+### Internal political divisions
+- American politics is more fractured internally than externally
+    - The real battle isn’t left vs right but factions within each
+        - On the right: old-school conservatives vs MAGA populists
+        - On the left: institutional moderates vs insurgent progressives
+- Internal fights are often more intense because they’re about identity
+    - People feel more betrayed by those they see as part of their team
+    - The nastiest battles come from close ideological proximity
+- Coalitions are now unstable and conditional
+    - Parties don’t cohere around shared goals, but around common enemies
+    - This makes governing almost impossible because no one agrees what the mission is, only what they’re against
+- Institutional trust is collapsing, not just in media or government but in parties themselves
+    - Few Americans believe either party represents them fully
+    - As fragmentation grows, political coherence weakens—and so does accountability
+- Alexandria Ocasio-Cortex:
+	- AOC is a fascinating case of symbolic vs actual power
+	    - Enormous media presence, which is virtually unmatched on the left
+	    - But limited legislative achievements or coalition-building within Congress
+	- She embodies a kind of political celebrity where she is an influencer alongside a policymaker
+	    - The platform is powerful, but influence doesn't always translate to institutional change
+	- AOC has struggled to scale beyond the Twitter base
+	    - Her national profile is huge, but she hasn't reshaped the party the way some expected
+	    - Still unclear whether she wants to build bridges within the party or lead a separate movement
+	- She provokes intense emotional responses
+	    - That says more about the state of American politics than about her
+	    - Politicians today are often treated like avatars in a cultural war, not public servants
+	Here’s a long-form, detailed summary of the next three sections:
+
+### Political realignment
+- American politics is undergoing a massive but incomplete realignment. Less about policy and more about identity
+    - Parties are shifting not along traditional ideological lines, but along cultural, geographic, and educational divides
+    - The right is becoming the party of the non-college-educated, rural, religious, and nationalist
+    - The left is increasingly composed of urban, college-educated, secular, and culturally progressive voters
+- Economic views no longer neatly map onto party lines
+    - Many Republicans support welfare-like programs if they’re framed in nationalist or populist terms
+    - Many Democrats are skeptical of large-scale public spending unless it's tied to moral language or cultural values
+- Traditional categories—liberal, conservative, moderate—are breaking down
+    - Someone can be “left” on healthcare and “right” on immigration; those mixes are increasingly common
+    - Parties aren't ideological containers anymore, but rather emotional and cultural tribes
+- The electorate is exhausted by culture war, yet entrapped in it
+    - Most people want functional governance, but media incentives and political primaries keep stoking polarization
+    - No dominant narrative has emerged to unify a new majority
+- Future realignment may hinge less on economic ideology and more on how each party addresses identity, meaning, and belonging
+    - What people are hungry for isn’t always policy—it’s a sense of who they are, who they’re with, and who’s against them
+
+### Supply-side progressivism
+- Supply-side progressivism is a growing idea on the left: build more, faster, smarter
+    - It’s not about redistributing a fixed pie, but growing the pie through abundant housing, infrastructure, energy, and technology
+    - Combines liberal ends (equity, access) with traditionally conservative means (building, markets, efficiency)
+- The premise: scarcity is often a policy choice
+    - The housing crisis, for instance, is not natural—it’s the result of zoning laws, NIMBYism, and regulatory thickets
+    - Progressivism fails when it promises benefits that the system can’t deliver due to its own bureaucratic gridlock
+- This vision is pro-innovation, pro-growth, and pro-state capacity—but deeply critical of how existing progressive coalitions function
+    - You can’t be a progressive who wants universal childcare and also oppose permitting reform
+    - The government must be retooled to actually execute on its ambitions
+- Frustration with legacy liberalism is growing—not because people oppose its goals, but because they doubt its competence
+    - Voters don’t hate government... they hate *bad* government
+    - The goal isn’t less state... but _better_ state
+- There’s a generational shift underway
+    - Younger progressives are less ideologically rigid—more willing to experiment, more focused on outcomes over slogans
+    - “Yes in my backyard” is replacing abstract critiques of capitalism
+- The challenge: reconciling this builder mindset with entrenched progressive factions that view any deregulation as a threat to justice
+    - True supply-side progressivism will require new coalitions—across class, geography, and even ideology
+### Wealth redistribution
+- Wealth redistribution is an old idea with renewed urgency but new politics make it harder than ever
+    - America’s inequality levels are extreme by historical and global standards
+    - Yet broad-based support for aggressive redistribution is elusive
+- The tax system remains skewed toward capital over labor
+    - Wealth is often inherited, hidden, or shielded through complex legal mechanisms
+    - Raising taxes on the ultra-rich polls well but is hard to translate into lasting legislation
+- Redistribution is often discussed in moral terms but the political challenge is structural
+    - Most wealth isn’t liquid but it’s tied up in assets
+    - Even when taxes are raised, enforcement and collection remain limited
+- There’s a distinction between income redistribution and power redistribution
+    - Giving people money is one thing; giving them leverage, dignity, and control is another
+    - Universal programs (healthcare, housing, childcare) may do more to equalize opportunity than direct cash transfers
+- Public skepticism isn’t always ideological but also about trust
+    - People ask: will this actually help? Will the system work? Will the benefits reach me or just enrich bureaucrats?
+- A shift may be coming—not toward socialism, but toward “abundance politics”
+    - Instead of taking from the rich to give to the poor, the new idea is to make essential goods cheap and accessible for all
+    - Universal broadband, free community college, subsidized childcare—less about redistribution, more about universal provisioning
+
+### Housing Problem
+- America’s housing crisis is not merely a market failure—it’s a policy failure embedded in decades of zoning laws, political incentives, and cultural resistance
+    - High-cost cities with booming economies aren’t building enough housing, driving people and jobs away from opportunity
+    - The housing shortage has become a major bottleneck to economic growth, especially in innovation hubs like San Francisco and New York
+- There’s a fundamental tension between local control and national needs
+    - Local municipalities often restrict new housing construction via zoning laws, height restrictions, and environmental reviews
+    - These measures are framed as protecting “neighbourhood character” but result in supply constraints that hurt renters and newcomers
+- Cultural and political forces converge to block reform
+    - Progressive cities frequently espouse values of equity and inclusion but oppose dense or affordable housing developments in their own neighbourhoods
+- Tech workers and high-income newcomers fuel the demand—but NIMBY politics choke off supply
+	- The issue isn’t gentrification as much as underproduction. Lack of new housing pushes prices up for everyone and displaces lower-income residents
+    - The left is split: some want to fight inequality by restricting market dynamics; others push for building more and deregulating housing development
+- More housing—especially near jobs—is the only durable solution
+    - Supply-side progressives argue that affordable rents come not from price controls but from abundance
+    - Federal incentives could help override local obstructionism, but political will is lacking
+
+### Regulation and Deregulation
+- Deregulation isn't just a conservative talking point—it’s increasingly a demand from parts of the left who see overregulation as a block to progress
+    - The state apparatus is often too slow, too convoluted, and too risk-averse to meet 21st-century challenges
+    - This applies especially to infrastructure, clean energy, biotech, and housing
+- Environmental review processes (like NEPA) were built to protect nature—but now act as barriers to climate progress
+    - Green energy projects are bogged down in the same red tape as harmful developments
+    - “We’ve built a world where it's easier to build oil pipelines than wind farms”
+- America doesn’t just need investment but also a capacity to build
+    - That means faster permitting, fewer veto points, and modernized regulatory frameworks
+    - The challenge: how to simplify systems without creating openings for corporate abuse or environmental destruction
+- There’s a distinction between regulation for protection and regulation that prevents execution
+    - “We need a state that does less of the wrong things and more of the right things faster”
+    - The goal is not zero regulation, but smarter regulation—clearing the way for progress rather than entrenching stagnation
+- Regulatory sclerosis reflects a deeper trust problem
+    - The public no longer believes in competent, impartial governance, so every project is met with suspicion and litigation
+    - Fixing the state means restoring trust—not just in outcomes, but in processes that are fair, timely, and rational
+
+### DOGE, Elon, and Trump
+- DOGE—the Department of Governmental Efficiency—is introduced as a new federal entity tasked with streamlining the government’s own internal processes
+	- It signals a rare bipartisan consensus around the idea that the U.S. government is too inefficient, too procedurally bogged down, and incapable of doing the things it claims to want to do
+	- The deeper critique isn’t about whether government should exist—but whether it can execute on its promises without collapsing under its own rules
+- The insight driving DOGE is structural, not ideological
+	- It’s not simply that government should be smaller or larger—it’s that whatever the size, it should work
+	- Bureaucratic logjams, redundant approval processes, and decades of procedural accumulation have made it nearly impossible to build public infrastructure or scale government services at the speed required by modern challenges
+- DOGE is framed as a potential pivot in the philosophy of governance
+	- The traditional progressive instinct is to create more programs and funding streams; the conservative instinct is to block them
+	- DOGE implies a third instinct: clean out the arteries of the state itself so that either side, if in power, could at least implement what it intends
+- Elon Musk is invoked as a symbolic foil to government dysfunction
+	- At Tesla, SpaceX, and Neuralink, there’s an unambiguous mission and clear alignment between leadership and execution
+	- Musk represents a kind of hyper-competence, even recklessness, that contrasts sharply with the “fog of responsibility” that pervades federal agencies
+	- While Musk is polarizing, his companies show what’s possible when an organization has speed, vision, and decisiveness
+- The underlying question: how do you make government move like a startup without becoming dangerous or despotic?
+	- Musk’s model works partly because of central authority and risk-taking—qualities that can be toxic in the public sector without strong accountability
+	- The challenge is to achieve agility *without* abandoning deliberation and fairness
+- DOGE’s purpose isn’t just technical—it’s political and symbolic
+	- It sends a message: reform doesn’t have to mean deregulation for its own sake, but smarter regulation that enables action
+	- In the same way that Trump used executive power to perform a kind of symbolic warfare—appointing loyalists, dismantling agencies—DOGE could become a symbol of competent, liberal technocracy
+- However, there’s skepticism that DOGE could be merely performative
+	- A department like DOGE could become a dumping ground for shallow fixes, white papers, and photo ops
+	- If it doesn’t actually remove the real veto points—laws, statutes, environmental reviews—it won’t matter
+- Trump represents a cautionary tale of what happens when government is restructured around vibes and grievance rather than function
+	- His administrative style was chaotic, loyalty-based, and uninterested in making government work well—only in making it *feel* like it worked for his base
+	- DOGE, to succeed, has to explicitly differentiate itself from this model—not just in rhetoric, but in competence
+- The broader context: Americans are losing faith in government not just ideologically, but operationally
+	- People don’t believe the state can deliver—on housing, on infrastructure, on healthcare—even when it wants to
+	- Restoring faith requires performance: not slick branding, but results people can feel
+- The ideal version of DOGE is ambitious: it would audit the entire machinery of the federal state and strip away what no longer serves purpose
+	- It could standardize forms, digitize workflows, shorten approval timelines, and create clearer chains of accountability
+	- It could become a muscle for national capacity—so that climate initiatives, housing projects, and pandemic responses don’t drown in red tape
+- But its success depends on political will
+	- It’s easier to create a new department than to empower it with real authority
+	- If DOGE is sidelined by Congress, blocked by unions, or starved of leadership, it will fail not because the idea was wrong—but because the system resisted change, as it often does
+- Ultimately, DOGE raises the stakes for both parties
+	- For the left, it’s a test: can you make big government competent?
+	- If liberal democracy can’t build anymore, people will turn to illiberal alternatives that can
+	- For the right, it’s a dare: if you truly care about efficiency, will you let someone try to fix the machine rather than destroy it?
+
+### Optimism for the Future
+- The case for optimism doesn’t rest on blind faith—it rests on tangible, accelerating breakthroughs in science, technology, and political clarity    
+    - Biomedical science is on the cusp of a golden age; mRNA cancer vaccines, CAR T-cell therapies, and GLP-1 drugs may radically reshape how we treat disease
+        - What started as a treatment for diabetes might become a lever for reducing body-wide inflammation, neurological disorders, even Alzheimer’s
+        - “We might have accidentally, from the tongue of a lizard, a partial medicine for Alzheimer’s disease”
+    - AI’s promise lies not just in automation, but in synthesis. Cross-domain insight has historically driven the most profound discoveries
+        - A system that helps scientists spot the connections between genomics, immunotherapy, and protein inhibition could make real-time innovation possible
+        - “A real golden age” becomes plausible if this combinatorial intelligence is harnessed for health, energy, and knowledge—not distraction or control
+- Energy and housing—long the bottlenecks of physical progress—are becoming solvable, but only if institutions stop being their own worst enemies
+    - A culture of bureaucratic self-protection has made it nearly impossible to spend money, even when the political will and resources exist
+        - $42 billion for rural broadband died on impact with reality—not because the idea was bad, but because the process devoured the outcome
+        - Institutions originally built to protect public goods are now preventing their renewal; NEPA, once crucial for the environment, now blocks clean energy
+    - The synthesis isn’t deregulation or statism—it’s building institutions that serve goals, not just preserve process
+        - “A political identity that believes in efficient bureaucracies”—one that still sees the state as a vehicle, but refuses to romanticize its dysfunction
+- In politics, the [[Barack Obama — Hamilton College||arc is bending]]—but not on its own. The character of the right has grown increasingly autocratic; the character of the left, bureaucratic
+    - The danger of centralizing power into the hands of one man is matched by the danger of dispersing accountability so widely that nothing ever gets done
+    - The next phase of American liberalism, if it succeeds, must be less procedural and more outcome-driven—more committed to justice than to the maze of laws meant to uphold it
+        - “There is no abundance agenda that works if the Democratic Party is as rule-bound and as process obsessed as it was in the last 10 years”
+- This isn’t just about policy—it’s about building a culture that values results over rituals
+    - The failure of liberal institutions to confront their own sclerosis opens the door to wrecking-ball populism
+    - But the response isn’t to deny the anger—it’s to channel it. To use that fire to reform rather than destroy
+        - A new liberalism must be honest about failure and obsessed with repair
+- The future is high variance. That is what makes it exciting—and urgent
+    - The world is becoming more like the early 20th century than the post-1990s order of stability and incrementalism
+    - That means the stakes are higher—but also the potential. Mass desalination, cultivated meat, AI-aided medicine, and clean energy aren’t just dreams
+        - “Things have gotten faster and less predictable. We are in the most high variance period that has happened in a very, very, very long time”
+- Hope doesn’t come from certainty; it comes from possibility. It comes from choosing to stay engaged when outcomes are still up for grabs
+    - “You have to create a future. You have to call into being a future you’ll have to fight for”
+    - The optimism isn’t that good things will happen. It’s that they could—and that’s enough to make this moment worth everything
