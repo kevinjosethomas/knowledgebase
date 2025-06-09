@@ -1,3 +1,7 @@
+---
+date: 2024-11-25
+---
+
 Below is a collection of thoughts and quotes from my Notes app—October 2023 to November 2024.
 
 ###### **November 25, 2024**

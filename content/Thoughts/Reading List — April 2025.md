@@ -1,5 +1,5 @@
 ---
-date: 2025-05-30
+date: 2025-04-30
 ---
 - [What Game Theory Reveals About Life, The Universe, and Everything, Veritasium](https://www.youtube.com/watch?v=mScpHTIi-kM)
 	- Defection vs cooperation; game theory and how it connects to our own lives
