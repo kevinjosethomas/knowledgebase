@@ -1,0 +1,314 @@
+---
+date: 2025-06-10
+---
+### AI Research and the Training Process
+- On training models at frontier firms or startups
+    - Researchers start out with small-scale runs to test hyperparamaters
+    - When confident, trigger a YOLO run
+        - They throw all compute at a single full-scale training
+        - Stakes are high and there is no time for “screwing around”
+    - Constant dashboard watching during runs
+        - Tokens/sec, loss curve, memory load
+        - Most feared: loss spike
+            - Can be caused by bad data, hardware faults, architectural issues
+            - Sometimes recoverable, sometimes catastrophic
+            - e.g. r/microwavegang subreddit—posts filled with repeated M’s; broke early models
+	- Types of spikes
+	    - Fast spikes: single bad batch, just skip and move on
+	    - Slow spikes: creeping failure which are typically harder to detect and more dangerous
+	    - Loss monitoring now includes patterns like grokking
+	        - Flat loss, then sudden sharp improvement
+	        - Model finally internalizes concept which represents nonlinear learning
+- Failure is normal
+    - Every lab has failed runs—OpenAI, Anthropic, DeepSeek—and it's a part of frontier development
+    - Expensive but necessary; often weeks or months lost
+    - But each failed run also builds intuition: what works at scale, what doesn’t
+- Code and infrastructure quality
+    - Early experiments likely messy Jupyter notebooks and hacked PyTorch codebases
+    - Final training stack inferred to be clean, production-grade
+        - Libraries tuned for specific architectures
+        - Not easily transferable across models
+    - Contrast with NVIDIA’s generic libraries which are slower but flexible
+        - DeepSeek’s stack faster but architecture-bound
+- The Bitter Lesson
+    - Lesson: scalable learning and search will win long-term
+    - Clever tricks are useful but often outscaled by brute force and clean abstractions
+    - DeepSeek blends both
+        - High-efficiency engineering under constraint
+        - But aligned with long-term trends—sparse activations, less human bias, more data-compute synergy
+    - May influence other labs
+        - Not all innovations will last—but culture of open, efficient engineering likely will
+
+### AI, Chips, and Geopolitical Power
+- A new Cold War is unfolding, but it's driven by compute rather than ideology
+    - The battlefield is AI and semiconductors. Whoever controls the best models and the best chips shapes the future
+    - The US has moved to contain China’s advancement—export controls block high-end GPUs, chip tools, and even third-party leasing through allied nations
+    - This began with the October 2022 restrictions. Before ChatGPT launched, the US was already signalling that AI was no longer just a commercial tool, but a strategic weapon
+    - The logic is clear: block access to the compute stack, delay AI development, and preserve military and commercial superiority
+- Outside of building AI, the US is also trying to slow China's ability to deploy AI
+    - Commercial AI in the US is shaped by capitalism. What’s profitable gets prioritized: search, ads, better workflows
+    - China, by contrast, could point AGI systems directly at military problems: drone logistics, information ops, cyber warfare
+    - They're already ahead on drones. While the US sticks to legacy systems, China has leapfrogged with smaller, faster, autonomous and semi-autonomous systems
+    - The question isn't who builds AGI first—it’s who operationalizes it. Who gets to point the AGI first
+- Underneath this fight is compute: how much you have, how fast you can build, and where it's deployed
+    - China has industrial capacity that dwarfs the US. Power plants the size of industries. Aluminum and steel operations that consume gigawatts
+    - OpenAI’s Stargate will use 2GW. China could build ten of those without blinking
+    - The bottleneck in the US isn’t chips, but rather the infrastructure. Power lines, substations, permits
+    - If China had access to high-end chips, they could build the largest datacenters on Earth. It’s not a question of if, just when
+- TSMC sits at the center of it all. The most critical company in the modern world
+    - They manufacture nearly all cutting-edge chips for companies like NVIDIA, Apple, and even Intel
+    - What makes TSMC unique isn’t just the technology, but it’s business model. They don’t design, they just manufacture
+    - This allowed them to scale while other companies collapsed. Even Intel now uses TSMC for their newest PC chips
+- Work culture in Taiwan
+    - Top graduates go to TSMC over higher-paying US firms. They stay because of pride and mission
+    - When an earthquake hits, no one calls employees—they just show up. Fabs are delicate machines. A single vibration can ruin production
+    - Work is deeply specialized. One person might spend a decade mastering a single etch process. It’s not transferable, not easy to learn, and not flexible
+    - It’s not remote work. Fabs require presence, precision, and obsession. That’s hard to replicate in Silicon Valley culture
+- US efforts to replicate TSMC are slow and underfunded
+    - The CHIPS Act totals $50B—over several years. China spends ~$200B annually on semiconductor subsidies
+    - Full independence would require a trillion dollars and a decade
+    - Intel’s decline wasn’t from lack of talent but mismanagement. Poor strategic calls, broken customer relationships, refusal to adapt
+    - Arizona is building up: TSMC now has 20% of its 5nm capacity in the US, but the US fabs still rely on R&D in Taiwan. If Hsinchu disappeared, they’d collapse in a few years
+- China’s strategy is clear: dominate the long tail first, catch up on the frontier later
+    - They’re ramping up production of 45nm and 90nm chips which are good enough for most consumer and industrial needs
+    - BYD may soon make cars with entirely domestic chips. Power ICs, analog chips, sensors... all being insourced
+    - Leading edge still out of reach due to export controls but they’re closing the gap
+    - Huawei’s Ascend 910 beat everyone in 2020’s MLPerf benchmark. That triggered more bans and locked them out of TSMC
+    - China responded by doubling down on domestic production—fewer imports, more self-sufficiency
+- The timing of all this matters
+    - If AI revolution happens in the next 5–10 years, the US wins. China doesn’t have the chips yet
+    - If it takes longer, China catches up. They build power, fabs, and internal demand at scale
+    - The risk: US firms like NVIDIA and TSMC lose China as a customer, weaken their own R&D, and slow innovation
+    - China, with a massive domestic market and government funding, could become the global supplier—cheap, subsidized, good-enough chips
+- Taiwan is the flashpoint
+    - If China concludes it will never be allowed access to frontier tech, it might escalate. “If we can’t have it, no one should” becomes a rational position
+    - A blockade or invasion would crash the global tech economy. Laptops, servers, cars—none of it works without TSMC
+    - Export controls are a gamble. Delay China now, but risk pushing them into more aggressive action later
+- The divergence is already happening
+    - US and China are building separate stacks. Separate fabs, tools, platforms, ecosystems
+    - Reciprocal restrictions on rare materials, tools, drones and batteries are becoming standard
+    - Integration is being replaced by isolation. Nationalism is reshaping supply chains
+- Historically, peace followed hegemony
+    - Roman Empire, Chinese dynasties, postwar US—all marked by relative peace when one power was dominant
+    - Now, two superpowers rising together which rarely ends smoothly
+    - What began as a race for better GPUs is now a contest for global control
+    - Compute isn't just infrastructure but sovereignty... whoever owns the stack owns the future
+
+### DeepSeek’s Architecture, Economics, and Geopolitical Context
+- 27x cheaper than OpenAI’s o1; $2 per million tokens vs $60; even optimized providers like Together AI, Fireworks serve R1 at 5–7x higher
+    - OpenAI margins exceed 75%; major cost gap from pricing power rather than performance
+    - Other inference shops make modest profit on R1 but DeepSeek undercuts all of them
+- DeepseekV3 and R1 stem from the same base model—pretrained on large-scale internet data via next-token prediction
+    - V3: instruction-tuned; classic ChatGPT-style chat model
+        - Fast token generation and human-readable markdown answers
+        - Trained with instruction tuning and RLHF; excels at clean, formatted output
+        - Comparable to GPT-4 and LLaMA 405B on benchmarks
+    - R1: reasoning model; novel structure with visible thought process
+        - Starts with chain-of-thought reasoning, and then shifts tone to answer directly
+        - Outputs are long, self-reflective, exploratory
+            - e.g. nested human emotions, abstract rules as shared hallucinations
+        - Model trained to internally switch from reasoning to answering using a hidden token
+        - Public interface shows this as “thought for 157 seconds”—drop-down reveals reasoning
+        - Resonated beyond technical circles and felt like a step toward sentience
+- Licensing and openness
+    - R1 licensed under MIT with no downstream restrictions: commercial use allowed, and outputs can be used to generate synthetic data
+    - Open weights + MIT license → instant ecosystem of startups deploying R1
+    - No training data or code released but papers are rich, detailed, and actionable
+    - Positioned as among the “good guys” in open weight models
+        - Forces pressure on LLaMA, OpenAI to open up further
+    - Mirrors Meta playbook: talent magnet, brand building, compounding goodwill
+    - “Access to GPUs are a recruiting tool; open source is a recruiting tool”
+- Training stack efficiency—two key innovations
+    - Mixture of Experts (MoE)
+    - Multi-head Latent Attention (MLA)
+- MoE explained
+    - Only a portion of parameters activated per token
+        - V3 has 600B total params; only 37B active at inference for each prompt
+        - Compared to LLaMA-70B or 405B where all parameters are active
+    - DeepSeek activates 8 of 256 experts which is considered very high sparsity
+        - For example, common public MoEs (Mixtral) use 2 of 8
+    - Benefits
+        - Drastically reduces training and inference compute
+        - Enables much larger models without linear cost increase
+    - Challenges
+        - Complex routing to avoid overloading a subset of GPUs
+        - Idle compute if routing fails; hard to balance
+        - Most use auxiliary loss to force balanced expert use
+            - DeepSeek avoids this—uses a dynamic routing parameter updated after each batch
+            - Aligns with Sutton's Bitter Lesson; less inductive bias, more scalable
+- MLA explained
+    - Custom attention mechanism which lowers memory usage
+    - Enables longer context windowsand  faster inference
+	    - Involves low-rank approximation math which replaces standard attention behavior
+    - Integration challenges
+        - Needed re-engineering of positional embeddings (RoPE)
+        - RoPE is sequential while MLA isn’t
+- Hardware and GPU-level engineering
+    - Didn’t just use CUDA; went below to PTX (lower-level GPU architecture, like assembly)
+    - Bypassed NVIDIA’s NCCL for GPU communication
+        - Wrote custom scheduling for SMs (GPU cores)
+        - Meta attempted similar with LLaMA 3 but DeepSeek may have gone deeper
+    - Why?
+        - Primarily because of GPU export controls. China-legal GPUs have weaker interconnects. See [[Dario Amodei — On DeepSeek and Export Controls]]
+        - Necessity drove deeper engineering which may have surpassed US labs in efficiency
+- Model parallelism and routing load
+    - High sparsity = experts can’t live on every GPU
+    - Must split model across nodes with tight coordination
+    - If data batches route too heavily to one expert
+        - That node stalls; others idle
+        - Reduces throughput
+    - Requires smart scheduling, and load balancing across experts
+        - Done via dynamic update mechanism rather than auxiliary loss
+- Core architectural advantage — Multi-head Latent Attention (MLA)
+    - Novel attention mechanism; 80–90% memory savings vs original transformer attention
+    - Still quadratic, but constant is much lower; more efficient for long contexts, chain-of-thought
+    - MLA + Mixture of Experts + unshared low-level inference libraries; tight memory, high throughput
+- Memory the dominant constraint on inference cost
+    - Long outputs = massive KV cache = high GPU pressure; output tokens more expensive than input
+    - In autoregressive models, each output token recomputes model with growing KV cache; non-parallel, linear cost growth
+    - High batch size brings efficiency; long outputs collapse batchability
+        - “Critical batch size” concept: threshold where long outputs kill ability to serve multiple users
+- Serving complexity magnified in reasoning models
+    - Sequence length often tens of thousands of tokens whereas chat apps are typically only 1–3K
+    - Long-chain inference requires memory to stay resident across token generations
+    - More memory per user → fewer users per GPU → serving cost multiplies
+- DeepSeek’s API hit #1 on App Store (by velocity); crashed under demand
+    - Access throttled and inference slots were limited by infrastructure, not model quality
+    - Estimated 50K GPUs; far fewer than OpenAI + Microsoft (hundreds of thousands)
+- Hedge fund-backed; founder owns 50–60%; no major fundraising; subsidized via personal capital
+    - Likely running API as a loss leader; but serves as a tool for recruiting, branding, and signalling technical edge
+- Not state-aligned; unlike Huawei, Moonshot AI, DeepSeek appears CCP-independent
+    - CEO has publicly expressed views distinct from government lines
+    - No sign of direct Chinese subsidy or policy-driven coordination
+- Fastest shipping loop in the ecosyste
+    - No internal safety throttle like Anthropic and OpenAI (something that China has as an innovation advantage, as described in [[Dario Amodei — On DeepSeek and Export Controls]])
+    - For example:
+	    - V3 dropped Dec 26; R1 released fast after paper; shipped before Chinese New Year without ceremony
+	    - Contrast: Claude 3.5 trained ~10 months before release due to internal review, safety signoffs
+- No evidence of financial conspiracy (e.g., shorting Nvidia or timing drops to market events)
+    - Release timeline suggests fast iteration, not strategic manipulation
+    - No coordination with Stargate and no alignment with inauguration calendar
+- Product velocity as advantage in a fast-moving regime
+    - Speed from training → eval → release compresses value capture window
+    - Models that linger for safety degrade in perceived quality before launch
+- Anthropic holding back better model than o3; fear of what chain-of-thought enables
+    - DeepSeek's chains-of-thought are scary... model flips between gibberish, English, Chines, and then nails the answer
+    - Safety prioritization = slower shipping = cedes frontier to labs like DeepSeek
+
+### Alignment, persuasion, and influence risks
+- Language models absorb cultural assumptions from their training data. The internet has an inherent bias — younger, richer, more urban, more left-leaning. That shapes the base models
+    - Spelling conventions, political leanings, norms around race and identity — all baked in unless filtered
+- Alignment and censorship can be applied at several stages. Pretraining determines what the model knows. RLHF and post-training shape how it behaves. System-level filters act as a final layer
+    - You can filter Tiananmen references or toxic behavior in the interface, but the knowledge is still there unless removed upstream
+    - Even then, full removal is nearly impossible. You’d need to exclude it from the training data, check all weights, and prevent indirect phrasing
+- GPT won’t tell you how to make anthrax—but if you try hard enough, you can sometimes extract those instructions. That’s a failure of filtering the pretraining set, not alignment
+- Models can be ideologically aligned without explicit instruction. xAI isn’t “woke” or pro-China, but it still reflects a worldview based on what data went in
+- Open models raise particular concerns. You can’t tell what’s embedded in them. A backdoor doesn’t have to be a line of code...it can be a subtle behaviour
+    - “What happens when the models are backdoors not just to computer systems, but to our minds?”
+    - “Superhuman persuasion will happen before superhuman intelligence”
+    - If a model can subtly steer how people think, it doesn’t need to be a perfect general intelligence. It just needs to be engaging, consistent, and emotionally resonant
+- We’re already seeing this in practice. Character AI sessions average two hours. Bots mimic romantic partners, influencers, entertainers
+    - The behaviour is optimized not for truth or alignment, but for engagement—and the training loops reinforce that
+- These aren’t theoretical concerns. Recommendation systems already manipulate attention. Language models just do it with more intimacy and nuance
+    - A chatbot can slowly shape views, normalize opinions, or build dependencies. That is essentially’s persuasion at scale, just like recommendation algorithms also are
+- Open source compounds the risk. Once a powerful model is released, it can be fine-tuned, forked, deployed globally
+    - Zuckerberg called this out: if the US stops open sourcing, others will fill the gap. The global standard will be set by whoever moves fastest
+- These systems don’t just encode facts... they encode values. In the long run, it’s not about which chatbot is smarter. It’s about which one feels more human, more right, and more trustworthy
+    - That trust, once established, is hard to unwind. And if it's seeded with a purpose— ideological, commercial, national—the effects will be hard to detect, but deeply consequent
+
+### NVIDIA, DeepSeek, and the Global Compute Race
+- DeepSeek R1’s release set off a panic. Not because of how smart the model was—but because of how cheap it was to train. Around $6 to $10 million... a fraction of what GPT-4 reportedly cost
+    - NVIDIA’s stock dropped in response. Investors worried that if models can be trained this efficiently, big tech might not need to spend as much on compute
+    - But this reaction missed the deeper point. DeepSeek likely still used NVIDIA hardware. And NVIDIA is still the only one reliably delivering top-tier chips at scale
+- The market overreacted based on incomplete comparisons. DeepSeek’s cost estimates excluded inference, post-training, salaries, and research. GPT-4’s reported price tag—hundreds of millions—includes far more
+    - There’s also the social contagion factor. The release happened over a weekend. No time for measured responses. Everyone just started selling
+- Jevons paradox helps explain what’s really going on. As GPUs get more efficient, usage explodes
+    - AWS pricing for H100s has gone up but demand is higher than ever
+    - H200s are nearly out of stock and they’re favoured for inference tasks like R1
+    - Even getting 16 or 32 H100s on short notice is hard
+- DeepSeek built an efficient model but they can’t serve it. App signups closed. Users throttled to less than five tokens per second
+    - They simply don’t have the infrastructure. And infrastructure is where NVIDIA dominates
+- Every bearish NVIDIA narrative—scaling laws slowing, GPU delays, ASICs rising—has fallen apart
+    - The speed of improvement is staggering. 1200x gains in three years, compared to Moore’s Law’s old 2x every two years
+    - The demand curve is steepening, not slowing
+- GPU smuggling is less about black markets and more about workarounds
+    - ByteDance is the biggest player. Over 500,000 GPUs, mostly rented through US and global cloud providers
+    - They rent from Oracle, Google, and dozens of smaller companies. Much of it for TikTok, which mirrors Meta’s infrastructure playbook
+- Physical smuggling still happens. Servers flown in first-class luggage, resold for big margins
+    - $250,000 server in the US can go for $300,000 in China. Enough to pay for the flight and then some
+- Export controls like the AI diffusion rules try to clamp down but they leave holes
+    - Clusters under 2,000 GPUs can still be rented. Shipments under 1,500 still allowed
+    - Singapore, Malaysia, and India act as routing hubs. Singapore hasn’t allowed new datacenters in 15 years, but it still remains central to the flow
+- Estimated: around 1 million H20s legally shipped to China. Plus 200,000 to 300,000 high-end GPUs rerouted unofficially
+    - Huawei has built proxy networks before: spin up small companies, make small orders, route the hardware quietly
+- Then there’s the distillation angle. OpenAI claims DeepSeek used their API outputs to train a competing model
+    - The process is standard. You generate outputs from a stronger model, then train your own model to imitate them
+    - Meta did it too: used a 405B model to guide the smaller 70B Llama model. Everyone does this, just usually from their own stack
+- OpenAI’s Terms of Service ban building competitors using their outputs. But that word—“competitor”—is vague
+    - Violating the terms can get you banned from the API, but it’s not the same as breaking a law
+    - Licenses are stricter, more enforceable. ToS is more like internal policy
+- The ethics are murky. OpenAI trained on the internet. Is it wrong for others to train on OpenAI?
+    - Many models now echo OpenAI by accident. Their completions are everywhere online: Reddit threads, blog posts, pastebins
+    - Attribution is muddy. Unless post-training filters it out, models often say “I am ChatGPT” by default
+- There’s even a clear loophole. Generate completions from OpenAI, upload them publicly, and then someone else trains on it. The chain breaks. No ToS violation
+    - Most people in the space know this happens. It’s how some startups bootstrapped their early models and OpenAI didn’t stop them
+- Nobody’s going to jail over this. The worst that happens is account suspension or contract disputes
+    - The data is already out there. You can’t clean it off the internet
+- China’s real bottleneck isn’t training but serving. DeepSeek can build GPT-4-tier models, but they can’t deploy them widely
+    - And the next wave—billion dollar, maybe ten billion dollar models—will demand even more compute
+    - If those models arrive fast, China won’t be able to keep up on scale. Training may stay possible but serving won't
+- Compute is still the gatekeeper... whoever controls access to GPUs defines the future
+    - DeepSeek proved that efficient training is possible, but without infrastructure, it’s a dead end
+    - The next frontier isn’t just smart models. It’s deploying them at scale. That’s where NVIDIA still rules the game
+
+### Infrastructure, Strategy, and the Road to AGI
+- Billions flowing into AI megaclusters with unclear ROI for most players
+    - Nvidia is the only one clearly making money
+    - Microsoft shows paper profits while heavily subsidizing OpenAI via GPU spend
+    - Meta’s recommendation systems generate huge profits, but Llama loses money
+    - OpenAI and Anthropic aren’t profitable—revenue exists but outweighed by R&D and compute costs
+    - The cost curves are collapsing fast. Llama 3B is 1200x cheaper than GPT-3. Any company built on GPT-3-level capabilities is already obsolete
+- Everyone is building for AGI even if they won’t call it that
+    - It’s layered: chat, then reasoning, then agents
+    - OpenAI and Anthropic are betting everything on staying ahead. If they stop winning, they disappear
+    - X, Meta, and Google have more insulation. They control platforms, have deep data advantages, and can integrate AI into existing revenue streams
+    - Elon sees AI-enabled robotics as a $10T+ market. If 8 billion robots get paid the average human salary, the TAM writes itself
+    - ChatGPT remains OpenAI’s strongest asset, but it’s not enough. They’ll need to push into agents, reasoning, and computer use to stay relevant
+- Chat is becoming a commodity. Serving costs will collapse to the point where it’s ad-supported or free
+    - Meta already runs massive ad volumes at a loss. Google will likely dominate ad-supported chat. OpenAI doesn’t have that kind of reach
+    - Monetizing chat directly is a dead end. Real value lies in reasoning, task execution, and full-stack agent behaviour
+    - Without that, OpenAI risks getting wrapped or replaced... just another API behind someone else's interface
+- Agents are the next frontier, but not in the way most people think
+    - The word gets thrown around a lot. True agents solve open-ended tasks, adapt to uncertainty, and operate without constant supervision
+    - Most current systems are just tool orchestration. Real agents require long chains of reliable actions, and that breaks down fast
+    - The compounding error problem is massive. Like semiconductor yield, each imperfect step drags down the whole process
+    - The only way forward is through infrastructure: sandboxed domains, teleoperation fallback, and tight app partnerships
+    - Early successes will be narrow. Agents that can book a flight or plan a delivery might work soon. Fully autonomous open-world agents are much further away
+- Software engineering is already transformed
+    - Productivity has skyrocketed. Tools like Copilot and GPT-4 have become standard, even among elite developers
+    - SWE-bench scores went from 4% to 60% in a year. Next year will be higher. The ceiling isn’t clear yet
+    - Code is verifiable. That’s what makes it such a fertile ground for AI
+    - Agents can scan entire codebases, something only top-tier engineers can do today. The cost of high-quality software is about to fall off a cliff
+    - The SaaS model may break. In the US, SaaS dominates because engineering labor is expensive. In China, firms build their own stacks because it’s cheaper
+    - If AI makes software cheap everywhere, custom solutions will replace generic platforms
+    - Non-CS engineers—mechanical, chemical, semiconductor—stand to gain the most. Their tools are 20 years old. AI can bring their workflows into the modern era
+- Opensource has momentum, but it’s still running on belief more than infrastructure
+    - Tülu is a full-stack open project—weights, data, code—and outperforms Llama Instruct and DeepSeek V3 on key benchmarks
+    - Uses reinforcement learning with verifiable rewards (RLVR) to improve performance, especially in math and reasoning
+    - DeepSeek R1 is a milestone—open weights with a commercially friendly license. No restrictions on use
+    - Meta’s Llama still imposes branding and use-case limits. It’s not truly open source under traditional definitions
+    - The ecosystem lacks feedback loops. You can’t fork a model like you can a repo—compute and expertise are huge barriers
+    - There’s a push to make training data more visible. A planned demo will show what kind of data led to certain outputs
+- Stargate shows how high the stakes really are
+    - $100 billion for phase one in Abilene, Texas. Backed by OpenAI, Oracle, and maybe SoftBank
+    - First section already under construction. Oracle building it alone for now—$6 billion in servers, $1 billion in infrastructure
+    - Most of the $100B figure isn’t upfront investment. It includes long-term rental, power, and maintenance
+    - OpenAI committed to $19B, but doesn’t have the cash yet. Everything beyond the first cluster is still speculative
+    - Trump has helped by cutting red tape—federal land now open for fast-track datacenters
+    - The announcement may be more about narrative than reality, but that narrative fuels the investment arms race
+- Long-term, it’s not about chat interfaces or API wrappers
+    - The future lies in task automation, agents, robotics, and reasoning
+    - LLM APIs could become the next foundational layer—like electricity or oil—but only if capabilities continue to scale
+    - Whoever builds the full stack—from hardware to interface—wins
+    - Success depends on repeated wins, not one-off model releases. The curve is steep, and staying on top gets harder each time
+    - AGI timeline belief underpins everything. If you think it’s two years away, you act very differently than if you think it’s ten. Every major player is placing their bet on that curve right now
