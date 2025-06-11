@@ -1,0 +1,11 @@
+---
+date: 2025-06-30
+---
+- [[Ezra Klein & Derek Thompson — Lex Fridman Podcast]]
+	- Attention vs money in politics; left’s fragmentation vs Trump’s dominance
+	- Authenticity, risk-taking, and the media norms shaping political power
+- Sundar Pichai — Lex Fridman Podcast
+- Ilya Sutskever — University of Toronto Commencement Speech
+- [[Sam Altman — A Gentle Singularity]]
+	- Compounding growth, alignment, access, and collective governance in artificial intelligence
+	- Ties into articles like [[Dario Amodei — The Urgency of Interpretability]] 
