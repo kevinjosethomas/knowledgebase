@@ -8,4 +8,5 @@ date: 2025-06-30
 - Ilya Sutskever — University of Toronto Commencement Speech
 - [[Sam Altman — A Gentle Singularity]]
 	- Compounding growth, alignment, access, and collective governance in artificial intelligence
-	- Ties into articles like [[Dario Amodei — The Urgency of Interpretability]] 
+	- Ties into articles like [[Dario Amodei — The Urgency of Interpretability]]
+- Zohran Mamdani

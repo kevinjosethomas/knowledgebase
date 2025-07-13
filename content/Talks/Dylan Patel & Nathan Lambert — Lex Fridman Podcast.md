@@ -3,7 +3,7 @@ date: 2025-06-10
 ---
 ### AI Research and the Training Process
 - On training models at frontier firms or startups
-    - Researchers start out with small-scale runs to test hyperparamaters
+    - Researchers start out with small-scale runs to test hyperparameters
     - When confident, trigger a YOLO run
         - They throw all compute at a single full-scale training
         - Stakes are high and there is no time for “screwing around”
