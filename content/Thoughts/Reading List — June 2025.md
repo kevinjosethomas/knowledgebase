@@ -2,11 +2,15 @@
 date: 2025-06-30
 ---
 - [[Ezra Klein & Derek Thompson — Lex Fridman Podcast]]
+	- I found this podcast really interesting— unique perspectives
 	- Attention vs money in politics; left’s fragmentation vs Trump’s dominance
 	- Authenticity, risk-taking, and the media norms shaping political power
-- Sundar Pichai — Lex Fridman Podcast
-- Ilya Sutskever — University of Toronto Commencement Speech
+- [[Sundar Pichai — Lex Fridman Podcast]]
+	- Technology’s power to transform lives; AI as the ultimate creativity and productivity unlock
+	- Leadership through clarity, humility, and surrounding yourself with greatness
+- [Ilya Sutskever — University of Toronto Commencement Speech](https://www.youtube.com/watch?v=zuZ2zaotrJs)
+	- This was a strange commencement speech imo
+	- AI represents humanity's greatest challenge and opportunity. How do we accept reality and focus on the next best step?
 - [[Sam Altman — A Gentle Singularity]]
 	- Compounding growth, alignment, access, and collective governance in artificial intelligence
 	- Ties into articles like [[Dario Amodei — The Urgency of Interpretability]]
-- Zohran Mamdani

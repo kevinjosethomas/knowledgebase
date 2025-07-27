@@ -6,6 +6,7 @@ date: 2025-05-31
 	- 2008 campaign and early presidency: historic election, financial crisis response, healthcare reform, and legislative battles
 	- Reflections on leadership and democracy: foreign policy decisions, race and identity in America, and the personal toll of the presidency
 - [[Dylan Patel & Nathan Lambert — Lex Fridman Podcast]]
+	- Very engaging episode, lots of interesting facts
 	- Frontier AI development and compute race: high-stakes training, DeepSeek's breakthroughs, and U.S.-China chip geopolitics
 	- Alignment, persuasion, and open-source risks: model influence, cultural bias, and ethical concerns around open LLMs
 	- Ties deeply into [[Dario Amodei — On DeepSeek and Export Controls]]

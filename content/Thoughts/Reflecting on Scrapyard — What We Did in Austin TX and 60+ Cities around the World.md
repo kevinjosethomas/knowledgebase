@@ -66,6 +66,6 @@ Thank you Hack Club, thank you Canada, and thank you for my amazing friends and 
 
 Links:
 - [YouTube Documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA)
-- [Scrapyard Flagship Expenses](https://hcb.hackclub.com/scrapyard) (currently private)
+- [Scrapyard Flagship Expenses](https://hcb.hackclub.com/scrapyard)
 - [Scrapyard Vancouver Expenses](https://hcb.hackclub.com/scrapyard-vancouver)
-- [Scrapyard Global Expenses](https://hcb.hackclub.com/scrapyard-global-grant-distribution)
+- [Scrapyard Global Expenses](https://hcb.hackclub.com/scrapyard-global-grant-distribution
