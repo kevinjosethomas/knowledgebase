@@ -5,7 +5,7 @@ This early April, I once again got the opportunity to head to Palo Alto and spen
 
 > Our mission at K-Scale Labs is to make humanity into a Type 1 Kardashev scale civilization. This means building a civilization that is capable of harnessing all of the energy available on Earth and channeling it toward beneficial outcomes. We are doing this by building general-purpose humanoid robots as vehicles for embodied intelligence.
 
-Here are some insights I gathered throughout my time at the office:
+Here are some insights I gathered throughout my time inside and outside the office:
 
 - **Picking your mission**
 	- Find role models: read books and biographies; listen to podcasts and audiobooks
@@ -15,17 +15,18 @@ Here are some insights I gathered throughout my time at the office:
 	- A useful question to consider prior/during optimization is the Hamming Question: “What are the most important problems in your field, and why aren’t you working on them?”
 	- Eventually, when you know what you want to do, focus on that. This game is your game now. Cut out all the noise—other's expectations of you, distracting goals outside of what you want to focus on—and focus on these games alone.
 	- **When you stop playing other people's games, you start competing WITH everyone else rather than AGAINST everyone else**
-- **Be humble**
-	- KT: "Morality is probably one of the most important values we've been raised with: I always do my best to always work harder than I ever have before; I always do my best to serve the people around me the best I can; I always do my best to be a positive influence and smile for the people around me. I always do my best to be *good*—why do I feel like I have worse outcomes than other people who blatantly cheat, manipulate, and operate dishonestly?"
-	- One fascinating conversation:
-		- "Think game theory. Things look grim when you look at everything as a one-shot game—because life is a repeated game. In a one-shot payoff matrix, defection (cheating) is always the dominant strategy—because you win and won't have to pay the consequences. If there's no tomorrow, cheating always makes sense. It gives the highest short-term reward, and there's no cost to manipulation, dishonesty, and burning trust."
-		- "But life isn't one round—it's an infinite game. Mutual cooperation becomes the rational equilibrium—it consistently outperforms defection over time"
-		- "You can term it as 'morality' or or you can look at everything through a selfish lens of maximizing your expected value; but regardless of your worldview, cooperation is always the optimal long-term strategy. You, by working hard and being honest, are optimizing for cumulative reward, not immediate wins. The outcomes come later, but they scale better and last longer."
-		- KT: "But continuous short-term losses stack up and make it harder to stay committed. Even if I believe in the long game, missing the payoff again and again will eventually erode my conviction. And at the same time, winning also makes it easier to win more—making it easier for cheaters to win more"
-		- "Sticking with the long game doesn’t mean ignoring the short term—it means accepting that short-term variance doesn’t reflect long-term value. Of course it's hard. Can you absorb losses without shifting course?"
-	- Another powerful perspective:
-		- "The path to success is not linear and there's little fulfillment in being exploitative"
-		- "Just because good things don’t necessarily always go to good people, doesn’t mean that doing things out of good intention is bad"
+- **Game Theory & Molarity**
+	- In another conversation, I expressed frustration about things in my own life—and our conversation turned into how game theory ties into our real life
+	- **The Frustration**
+	    - It’s easy to feel disillusioned when you play fair (working hard, being honest, helping others) while others cut corners, manipulate, or cheat and seem to win. In the short term, dishonesty can look like the smarter strategy.
+	- **The One-Shot Game Trap**
+	    - If life were a single round, cheaters would always win. In a one-shot payoff matrix, defection dominates because there are no consequences tomorrow. That’s why, in isolated moments, dishonesty looks like it pays.
+	- **Life is a Repeated Game**
+	    - But life isn’t one round, it’s an ongoing repeated game. In repeated games, cooperation is the rational equilibrium. Over time, honesty and trust compound into stronger networks, reputations, and opportunities. Exploitative wins are brittle; cooperative wins are durable.
+	- **Variance vs. Value**
+	    - Short-term setbacks (like losing to someone who cheats today) are just noise in a long game. They don’t erase the higher long-term expected value of playing honestly. The real challenge is staying committed when the short-term variance stacks against you.
+	- **The Payoff of Integrity**
+	    - Seen this way, morality isn’t just about “being good.” It’s also the rational way to maximize cumulative reward over a lifetime. Integrity is a long-term winning strategy, and my all-seeing grandparents have always been right.
 	- Outside of just finishing the AP Microeconomics Oligopoly unit, this conversation also reminded me of an interesting [Veritasium video about game theory](https://www.youtube.com/watch?v=mScpHTIi-kM) which I would definitely recommend watching
 - **Seek discomfort**
 	- Pull out a sheet of paper and write down the 30 things you fear the most
