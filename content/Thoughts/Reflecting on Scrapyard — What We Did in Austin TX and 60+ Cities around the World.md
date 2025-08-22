@@ -56,7 +56,7 @@ Thank you to the amazing students who attended Scrapyard Flagship: Niko, Tongyu,
 
 I'm turning 18 in exactly 7 days and its quite a strange thing to even consider. I've spent the last decade trying to grow up and be an adult; always working my hardest to do things outside of my capabilities and be seen as more than just a child. But now, as I get closer and closer to 18, it is a strangely frightening prospect—so I thought I'd take it as an opportunity to spend some time and write.
 
-So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at K-Scale. I think things have worked out pretty well so far 😜 I can't wait to see where it goes.
+So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at [[Another Week at K-Scale Labs|K-Scale]] . I think things have worked out pretty well so far 🙂 I can't wait to see where it goes.
 
 Thank you Hack Club, thank you Canada, and thank you for my amazing friends and family :)
 
@@ -68,4 +68,4 @@ Links:
 - [YouTube Documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA)
 - [Scrapyard Flagship Expenses](https://hcb.hackclub.com/scrapyard)
 - [Scrapyard Vancouver Expenses](https://hcb.hackclub.com/scrapyard-vancouver)
-- [Scrapyard Global Expenses](https://hcb.hackclub.com/scrapyard-global-grant-distribution
+- [Scrapyard Global Expenses](https://hcb.hackclub.com/scrapyard-global-grant-distribution)
