@@ -34,3 +34,5 @@ date: 2024-02-11
 		- The capital is there, but also a lot of similar competition
 		- Be aware that AI startups have maybe heard the same AI pitch hundreds of times, what makes you different?
 	- Virality is helpful; easier to scale (does marketing for you)
+
+These notes were jointly written by [Hinson Chan](https://www.flatypus.me/) and me (mostly Hinson 😅), right after we had the opportunity to speak with Tom for an hour during the [Hack Club Summit hackathon](https://summit.hackclub.com/) in San Francisco.
