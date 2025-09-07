@@ -11,7 +11,7 @@ I remember quite distinctly, back in 2019 when I was first moving from Bangalore
 
 Amongst the jam-packed ~65 hours we got to spend together (of which we unfortunately only spent about 7 hours sleeping), we worked to create a truly beautiful space—close friends with a shared passion for continually learning and building, talented teenagers with a knack for trying new things out, and a true community of driven kids just doing the coolest thing ever. Endless energy drinks, crazy cowboy hats, midnight karaoke—we got to see dozens of teenagers come together from all around the world, all sharing their own stories: through code, through lightning talks, and through the thousands of conversations and friendships formed during that single weekend.
 
-> I would struggle to truly explain even a fraction of the activities and projects and events that happened during the hackathon—but thankfully [Paolo's documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA)) does a pretty good job of capturing the vibe of the event.
+> I would struggle to truly explain even a fraction of the activities and projects and events that happened during the hackathon—but thankfully [Paolo's documentary](https://www.youtube.com/watch?v=8iM1W8kXrQA) does a pretty good job of capturing the vibe of the event.
 
 ![[Pasted image 20250422114438.png]] ![[Pasted image 20250422114458.png]]![[Pasted image 20250422114507.png]]
 
@@ -23,15 +23,15 @@ Today, it's unimaginable to even comprehend that Scrapyard will have the same ch
 
 Paraphrasing a message I wrote to Ruby when I returned to Vancouver after Scrapyard Flagship:
 
-> Because of Hack Club—each and every one of the 50,000 teenagers in the community, each and every student who attended Scrapyard, and each and every organizer who I was lucky to learn and work with—there was another Ruby out there who found their home at Hack Club that weekend... suddenly surrounded by a beautiful group of people: inspired to create new things and make new friends and share their gifts with others
+> Because of Hack Club—each and every one of the 50,000 teenagers in the community, each and every student who attended Scrapyard, and each and every organizer who I was lucky to learn and work with—there was another Ruby out there who found their home at Hack Club that weekend... suddenly surrounded by a beautiful group of people: inspired to create new things, make new friends, and share their gifts with others
 > 
-> Maybe it’s the elementary school brothers who walked in with smiles and worked insanely hard to learn and meet new people (even winning a prize at the end!)… or maybe it’s the girl who walked in intimidated by the prospect of a hackathon before realizing how awesome it’s going to be and even getting her sister over. Maybe it’s the unsure Austin locals who walked in without knowing what to expect and then proceeded to have the best weekend of their lives, or maybe it's the dozens of international students who flew through 20 hours of flights after waiting for this event for many weeks.
+> Maybe it’s the elementary school brothers who walked in with smiles and worked insanely hard to learn and meet new people (even winning a prize at the end!)… or maybe it’s the girl who walked in intimidated by the prospect of a hackathon before realizing how awesome it’s going to be and even getting her sister over. Maybe it’s the unsure Austin locals who joined without knowing what to expect and then proceeded to have the best weekend of their lives, or maybe it's the dozens of international students who flew through 20 hours of flights after waiting for this event for many weeks.
 > 
 > We did this over the weekend, we’re going to help others do it two weeks from now, and for weeks and months and even years from today, this is going to reverberate and continue to have a huge positive impact all around the world.
 
 #### Scrapyard Satellite — March 15
 
-And well, so we did. Two weeks later, on March 15th, our team at the British Columbia Youth Developer Collective hosted Scrapyard Vancouver—bringing together 85 students from all around the province to build stupid scrappy projects, and also breaking our previous record of British Columbia's biggest youth hackathon. In fact, Scrapyard Vancouver was one of the largest Scrapyard satellites in the world that weekend—beating some of the biggest cities in the world. And through all the work we put into BCYDC over the past year, our hackathons are now on par with *the* cities: New York, San Francisco, Toronto, and so on.
+And well, so we did. Two weeks later, on March 15th, our team at the British Columbia Youth Developer Collective hosted Scrapyard Vancouver—bringing together 85 students from all around the province to build stupid scrappy projects, and also breaking our previous record of British Columbia's biggest youth hackathon. In fact, Scrapyard Vancouver was one of the largest Scrapyard satellites in the world that weekend—beating some of the biggest cities in the world. Through all of the work we put into BCYDC over the past year, our hackathons are now on par with *the* cities: New York, San Francisco, Toronto, and so on.
 
 At that exact same moment, over 60 Scrapyard satellite hackathons took place around the world, each bringing together dozens of local students to create something new. On one weekend, across a span of just 48 hours, over 4500 students globally came together: to make a cool project, to meet new friends, and to try something entirely new. 
 
@@ -45,7 +45,7 @@ At that exact same moment, over 60 Scrapyard satellite hackathons took place aro
  
  Thank you to our amazing team at the British Columbia Youth Developer Collective for pulling through with Scrapyard Vancouver—especially Vuk, I can't wait to see how you grow BCYDC next year :)
 
-Thank you to the amazing students who attended Scrapyard Flagship: Niko, Tongyu, Kai Ling, Vivian, Aslesh, Meghana, Jonathan, Selena, Arnav, and the dozens of other super cool people I got to learn from. And thank you to everyone who attended Scrapyard Vancouver... I can't wait to see everyone continue cooking up the craziest stuff over the next few years—and of course, the next few decades.
+Thank you to the amazing students who attended Scrapyard Flagship: Niko, Tongyu, Kai Ling, Vivian, Aslesh, Meghana, Jonathan, Selena, Arnav, and the dozens of other super cool people I got to learn from. And thank you to everyone who attended Scrapyard Vancouver... I can't wait to see everyone continue cooking up the craziest stuff over the next few years.
 
 > If you're still interested in reading, I also wrote [[Air Travel]] on my flight to Scrapyard :)
 
@@ -56,7 +56,7 @@ Thank you to the amazing students who attended Scrapyard Flagship: Niko, Tongyu,
 
 I'm turning 18 in exactly 7 days and its quite a strange thing to even consider. I've spent the last decade trying to grow up and be an adult; always working my hardest to do things outside of my capabilities and be seen as more than just a child. But now, as I get closer and closer to 18, it is a strangely frightening prospect—so I thought I'd take it as an opportunity to spend some time and write.
 
-So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at [[Another Week at K-Scale Labs|K-Scale]] . I think things have worked out pretty well so far 🙂 I can't wait to see where it goes.
+So yeah! Here I am sitting in the backyard of a 15-million-dollar hacker house in Palo Alto—just after wrapping up another 20-hour day at [[Another Week at K-Scale Labs|K-Scale]]. I think things have worked out pretty well so far 🙂 I can't wait to see where it goes.
 
 Thank you Hack Club, thank you Canada, and thank you for my amazing friends and family :)
 
