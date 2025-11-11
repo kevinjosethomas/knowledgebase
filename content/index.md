@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-Hi, I'm Kevin! I'm a high school senior from Vancouver with a passion for computer science and software development. You can learn more about my work on my [portfolio](https://kevinjosethomas.com/).
+Hi, I'm Kevin! I'm a computer science student at the University of Waterloo. You can learn more about my work on my [portfolio](https://kevinjosethomas.com/).
 
 ### Table of Contents
 
