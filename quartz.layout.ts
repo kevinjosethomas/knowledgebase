@@ -2,6 +2,49 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FileNode } from "./quartz/components/ExplorerNode"
 
+const explorerOpts = {
+  defaultOpen: ["Thoughts"],
+  sortFn: (a: FileNode, b: FileNode) => {
+    // Put "Thoughts" folder first at the top level
+    const aIsThoughts = !a.file && a.name === "Thoughts"
+    const bIsThoughts = !b.file && b.name === "Thoughts"
+    if (aIsThoughts && !bIsThoughts) return -1
+    if (!aIsThoughts && bIsThoughts) return 1
+
+    const getDate = (node: FileNode) =>
+      typeof node.file?.frontmatter?.date === "string"
+        ? new Date(node.file.frontmatter.date)
+        : null
+
+    const sortByDate = (node: FileNode) =>
+      node.file?.filePath?.startsWith("content/Thoughts/") ||
+      node.file?.filePath?.startsWith("content/People/")
+
+    if (sortByDate(a) && sortByDate(b)) {
+      const dateA = getDate(a)
+      const dateB = getDate(b)
+
+      if (dateA && dateB) {
+        const diff = (dateB?.getTime() || 0) - (dateA?.getTime() || 0)
+        return diff !== 0
+          ? diff
+          : a.displayName.localeCompare(b.displayName, undefined, {
+              numeric: true,
+              sensitivity: "base",
+            })
+      }
+
+      if (dateA && !dateB) return -1
+      if (!dateA && dateB) return 1
+    }
+
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -21,51 +64,9 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.MobileExplorer(explorerOpts)),
     Component.Search(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        defaultOpen: ["Thoughts"],
-        sortFn: (a, b) => {
-          // Put "Thoughts" folder first at the top level
-          const aIsThoughts = !a.file && a.name === "Thoughts"
-          const bIsThoughts = !b.file && b.name === "Thoughts"
-          if (aIsThoughts && !bIsThoughts) return -1
-          if (!aIsThoughts && bIsThoughts) return 1
-
-          const getDate = (node: FileNode) =>
-            typeof node.file?.frontmatter?.date === "string"
-              ? new Date(node.file.frontmatter.date)
-              : null
-
-          const sortByDate = (node: FileNode) =>
-            node.file?.filePath?.startsWith("content/Thoughts/") ||
-            node.file?.filePath?.startsWith("content/People/")
-
-          if (sortByDate(a) && sortByDate(b)) {
-            const dateA = getDate(a)
-            const dateB = getDate(b)
-
-            if (dateA && dateB) {
-              const diff = (dateB?.getTime() || 0) - (dateA?.getTime() || 0)
-              return diff !== 0
-                ? diff
-                : a.displayName.localeCompare(b.displayName, undefined, {
-                    numeric: true,
-                    sensitivity: "base",
-                  })
-            }
-
-            if (dateA && !dateB) return -1
-            if (!dateA && dateB) return 1
-          }
-
-          return a.displayName.localeCompare(b.displayName, undefined, {
-            numeric: true,
-            sensitivity: "base",
-          })
-        },
-      }),
-    ),
+    Component.DesktopOnly(Component.Explorer(explorerOpts)),
   ],
   right: [
     Component.Graph(),
@@ -80,8 +81,9 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.MobileExplorer(explorerOpts)),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(explorerOpts)),
   ],
   right: [],
 }

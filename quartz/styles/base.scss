@@ -182,7 +182,7 @@ a {
       gap: 1rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: $topSpacing 1rem 2rem 1rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -193,12 +193,13 @@ a {
       grid-area: grid-sidebar-left;
       flex-direction: column;
       @media all and ($mobile) {
-        gap: 0;
+        gap: 0.5rem;
         align-items: center;
         position: initial;
         display: flex;
         height: unset;
         flex-direction: row;
+        flex-wrap: wrap;
         padding: 0;
         padding-top: 2rem;
       }
@@ -216,11 +217,8 @@ a {
         position: initial;
         height: unset;
         width: 100%;
-        flex-direction: row;
+        flex-direction: column;
         padding: 0;
-        & > * {
-          flex: 1;
-        }
         & > .toc {
           display: none;
         }

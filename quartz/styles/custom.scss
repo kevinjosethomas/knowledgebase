@@ -101,3 +101,18 @@ footer a {
   color: var(--dark) !important;
   font-weight: 300;
 }
+
+// Mobile explorer: same sidebar styling
+#mobile-explorer-content ul li > a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+  flex: 1 1 0;
+}
+
+#mobile-explorer-content li:has(> .folder-container [data-folderpath="Thoughts"]) {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}

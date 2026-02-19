@@ -5,7 +5,9 @@
   max-width: none;
   width: 100%;
   @media all and ($mobile) {
-    flex-grow: 0.3;
+    flex: 0 0 100%;
+    max-width: none;
+    margin-bottom: 0.75rem;
   }
 
   & > .search-button {
