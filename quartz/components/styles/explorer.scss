@@ -121,7 +121,7 @@ svg {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.95rem;
-    font-weight: $semiBoldWeight;
+    font-weight: $mediumWeight;
     line-height: 1.5rem;
     display: inline-block;
   }
@@ -146,7 +146,7 @@ svg {
       font-size: 0.95rem;
       display: inline-block;
       color: var(--secondary);
-      font-weight: $semiBoldWeight;
+      font-weight: $mediumWeight;
       margin: 0;
       line-height: 1.5rem;
       pointer-events: none;

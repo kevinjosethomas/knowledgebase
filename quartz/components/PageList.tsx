@@ -45,30 +45,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
         return (
           <li class="section-li">
-            <div class="section">
-              <p class="meta">
+            <a href={resolveRelative(fileData.slug!, page.slug!)} class="section-link">
+              <span class="section-title">{title}</span>
+              <span class="section-meta">
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
-              <div class="desc">
-                <h3>
-                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                    {title}
-                  </a>
-                </h3>
-              </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
+              </span>
+            </a>
           </li>
         )
       })}
@@ -78,10 +60,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
 PageList.css = `
 .section h3 {
-  margin: 0;
-}
-
-.section > .tags {
   margin: 0;
 }
 `

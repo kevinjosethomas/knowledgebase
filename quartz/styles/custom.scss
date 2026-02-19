@@ -2,3 +2,102 @@
 
 // put your custom CSS here!
 @use "./image-grid.scss";
+
+// Hide the "Explorer" title button - explorer stays always open
+button#explorer {
+  display: none;
+}
+
+#explorer-content {
+  // Override collapsed state so explorer is always visible
+  max-height: none !important;
+  visibility: visible !important;
+}
+
+// Borders on the center content area for symmetry
+.center {
+  border-left: 1px solid var(--lightgray);
+  border-right: 1px solid var(--lightgray);
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+  min-height: 100vh;
+
+  @media all and (max-width: 800px) {
+    border-left: none;
+    border-right: none;
+    padding-left: 0;
+    padding-right: 0;
+    min-height: unset;
+  }
+}
+
+
+// Same for footer column
+footer {
+  box-sizing: border-box;
+}
+
+// Visual separator after the Thoughts folder
+li:has(> .folder-container [data-folderpath="Thoughts"]) {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+// Sidebar article titles: single line with ellipsis
+#explorer-content ul li > a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+  flex: 1 1 0;
+}
+
+// Date labels next to explorer articles
+.explorer-date {
+  font-size: 0.75rem;
+  color: var(--gray);
+  white-space: nowrap;
+  margin-left: auto;
+  padding-left: 0.5rem;
+  flex-shrink: 0;
+}
+
+// Sidebars fade when not in use, group hover on either reveals both
+.sidebar {
+  opacity: 0.4;
+  transition: opacity 0.3s ease;
+
+  @media all and (max-width: 800px) {
+    opacity: 1;
+  }
+}
+
+#quartz-body:has(> .sidebar:hover) > .sidebar {
+  opacity: 1;
+}
+
+// Reduce sidebar font size
+.sidebar.left {
+  font-size: 0.875rem;
+}
+
+.sidebar.right {
+  font-size: 0.875rem;
+}
+
+// Hide scrollbar on left sidebar
+.sidebar.left {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+// Footer link styling
+footer a {
+  color: var(--dark) !important;
+  font-weight: 300;
+}

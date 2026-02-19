@@ -6,30 +6,14 @@ import { FileNode } from "./quartz/components/ExplorerNode"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        repo: "kevinjosethomas/knowledgebase",
-        repoId: "R_kgDOMRuqCg",
-        category: "Announcements",
-        categoryId: "DIC_kwDOMRuqCs4CnlDk",
-      },
-    }),
-  ],
-  footer: Component.Footer({
-    links: {
-      Website: "https://kevinjosethomas.com/",
-      GitHub: "https://github.com/kevinjosethomas",
-      Linkedin: "https://linkedin.com/in/kevinjosethomas",
-    },
-  }),
+  afterBody: [],
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({ spacerSymbol: "/" }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -38,10 +22,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
+        defaultOpen: ["Thoughts"],
         sortFn: (a, b) => {
+          // Put "Thoughts" folder first at the top level
+          const aIsThoughts = !a.file && a.name === "Thoughts"
+          const bIsThoughts = !b.file && b.name === "Thoughts"
+          if (aIsThoughts && !bIsThoughts) return -1
+          if (!aIsThoughts && bIsThoughts) return 1
+
           const getDate = (node: FileNode) =>
             typeof node.file?.frontmatter?.date === "string"
               ? new Date(node.file.frontmatter.date)
@@ -86,12 +76,11 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs({ spacerSymbol: "/" }), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],

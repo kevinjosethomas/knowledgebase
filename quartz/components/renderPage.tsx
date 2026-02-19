@@ -238,7 +238,7 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
-    <html lang={lang}>
+    <html lang={lang} saved-theme="dark">
       <Head {...componentData} />
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
@@ -258,15 +258,14 @@ export function renderPage(
                 </div>
               </div>
               <Content {...componentData} />
-              <hr />
               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
               </div>
+              <Footer {...componentData} />
             </div>
             {RightComponent}
-            <Footer {...componentData} />
           </Body>
         </div>
       </body>

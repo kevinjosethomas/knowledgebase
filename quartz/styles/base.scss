@@ -64,7 +64,7 @@ ul,
 }
 
 strong {
-  font-weight: $semiBoldWeight;
+  font-weight: $mediumWeight;
 }
 
 a {
@@ -179,7 +179,7 @@ a {
     }
 
     & .sidebar {
-      gap: 2rem;
+      gap: 1rem;
       top: 0;
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
@@ -321,7 +321,7 @@ h6,
 thead {
   font-family: var(--headerFont);
   color: var(--dark);
-  font-weight: revert;
+  font-weight: $semiBoldWeight;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {

@@ -20,6 +20,7 @@ export interface Options {
   filterFn: (node: FileNode) => boolean
   mapFn: (node: FileNode) => void
   order: OrderEntries[]
+  defaultOpen?: string[]
 }
 
 type DataWrapper = {
@@ -162,6 +163,16 @@ type ExplorerNodeProps = {
   fullPath?: string
 }
 
+function formatDate(dateStr: string | undefined): string | null {
+  if (!dateStr || typeof dateStr !== "string") return null
+  const date = new Date(dateStr)
+  if (isNaN(date.getTime())) return null
+  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+  const month = months[date.getUTCMonth()]
+  const year = String(date.getUTCFullYear()).slice(-2)
+  return `${month} ${year}`
+}
+
 export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodeProps) {
   // Get options
   const folderBehavior = opts.folderClickBehavior
@@ -175,10 +186,14 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
     <>
       {node.file ? (
         // Single file node
-        <li key={node.file.slug}>
+        <li key={node.file.slug} style={{ display: "flex", alignItems: "baseline" }}>
           <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
             {node.displayName}
           </a>
+          {(() => {
+            const dateLabel = formatDate(node.file.frontmatter?.date as string | undefined)
+            return dateLabel ? <span class="explorer-date">{dateLabel}</span> : null
+          })()}
         </li>
       ) : (
         <li>
