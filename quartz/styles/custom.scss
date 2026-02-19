@@ -18,10 +18,12 @@ button#explorer {
 .center {
   border-left: 1px solid var(--lightgray);
   border-right: 1px solid var(--lightgray);
+  border-color: rgba(255, 255, 255, 0.05);
   padding-left: 2rem;
   padding-right: 2rem;
   box-sizing: border-box;
   min-height: 100vh;
+  transition: border-color 0.3s ease;
 
   @media all and (max-width: 800px) {
     border-left: none;
@@ -66,7 +68,7 @@ li:has(> .folder-container [data-folderpath="Thoughts"]) {
 
 // Sidebars fade when not in use, group hover on either reveals both
 .sidebar {
-  opacity: 0.4;
+  opacity: 0.2;
   transition: opacity 0.3s ease;
 
   @media all and (max-width: 800px) {
@@ -76,6 +78,10 @@ li:has(> .folder-container [data-folderpath="Thoughts"]) {
 
 #quartz-body:has(> .sidebar:hover) > .sidebar {
   opacity: 1;
+}
+
+#quartz-body:has(> .sidebar:hover) > .center {
+  border-color: var(--lightgray);
 }
 
 // Reduce sidebar font size
