@@ -56,12 +56,15 @@ function setupExplorer() {
   const explorer = document.getElementById("explorer")
   if (!explorer) return
 
+  const explorerContent = document.getElementById("explorer-content")
+
   if (explorer.dataset.behavior === "collapse") {
-    for (const item of document.getElementsByClassName(
-      "folder-button",
-    ) as HTMLCollectionOf<HTMLElement>) {
-      item.addEventListener("click", toggleFolder)
-      window.addCleanup(() => item.removeEventListener("click", toggleFolder))
+    const buttons = explorerContent?.getElementsByClassName("folder-button") as HTMLCollectionOf<HTMLElement> | undefined
+    if (buttons) {
+      for (const item of buttons) {
+        item.addEventListener("click", toggleFolder)
+        window.addCleanup(() => item.removeEventListener("click", toggleFolder))
+      }
     }
   }
 
@@ -69,11 +72,12 @@ function setupExplorer() {
   window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
 
   // Set up click handlers for each folder (click handler on folder "icon")
-  for (const item of document.getElementsByClassName(
-    "folder-icon",
-  ) as HTMLCollectionOf<HTMLElement>) {
-    item.addEventListener("click", toggleFolder)
-    window.addCleanup(() => item.removeEventListener("click", toggleFolder))
+  const icons = explorerContent?.getElementsByClassName("folder-icon") as HTMLCollectionOf<HTMLElement> | undefined
+  if (icons) {
+    for (const item of icons) {
+      item.addEventListener("click", toggleFolder)
+      window.addCleanup(() => item.removeEventListener("click", toggleFolder))
+    }
   }
 
   // Get folder state from local storage
@@ -91,7 +95,7 @@ function setupExplorer() {
   }
 
   currentExplorerState.map((folderState) => {
-    const folderLi = document.querySelector(
+    const folderLi = explorerContent?.querySelector(
       `[data-folderpath='${folderState.path}']`,
     ) as MaybeHTMLElement
     const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement

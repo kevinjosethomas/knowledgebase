@@ -1,5 +1,6 @@
 ---
 date: 2024-11-25
+draft: true
 ---
 Below is a collection of thoughts and quotes from my Notes app—October 2023 to November 2024.
 
