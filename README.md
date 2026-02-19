@@ -7,7 +7,7 @@ A collection of my notes, thoughts, and learnings across a variety of fascinatin
 ## Recent Posts
 
 - [A Month Alone in Toronto](https://knowledge.kevinjosethomas.com/Thoughts/A-Month-Alone-in-Toronto)
-- [Reflecting on Scrapyard — What We Did in Austin TX and 60+ Cities around the World](https://knowledge.kevinjosethomas.com/Thoughts/Reflecting-on-Scrapyard-%E2%80%94-What-We-Did-in-Austin-TX-and-60+-Cities-around-the-World)
+- [Reflecting on Scrapyard - What We Did in Austin TX and 60 Cities around the World](https://knowledge.kevinjosethomas.com/Thoughts/Reflecting-on-Scrapyard---What-We-Did-in-Austin-TX-and-60-Cities-around-the-World)
 - [Another Week at K-Scale Labs](https://knowledge.kevinjosethomas.com/Thoughts/Another-Week-at-K-Scale-Labs)
 
 ## Browse

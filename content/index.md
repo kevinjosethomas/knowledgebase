@@ -7,7 +7,7 @@ Hi, I'm Kevin! I'm a Computer Science student at the University of Waterloo. You
 This is a collection of my notes, thoughts, and learnings across a variety of fascinating topics. Here are some recent posts:
 
 - [[A Month Alone in Toronto]]
-- [[Reflecting on Scrapyard — What We Did in Austin TX and 60+ Cities around the World]]
+- [[Reflecting on Scrapyard - What We Did in Austin TX and 60 Cities around the World]]
 - [[Another Week at K-Scale Labs]]
 
 ### Browse
